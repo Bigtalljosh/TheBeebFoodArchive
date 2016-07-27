@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html class="no-touch" lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+    <title>BBC Food - Recipes - Lamb cutlets marinated with spiced dates and sultanas </title>
+
+    <script src="http://food.files.bbci.co.uk/kandl-food/1130/javascript/vendors/modernizr.js"></script>
+
+    <!--[if (lt IE 9) & (!IEMobile)]>
+    <link rel='stylesheet' href='http://food.files.bbci.co.uk/kandl-food/1130/css/ie8.css'/>
+    <![endif]-->
+
+    <!--[if gt IE 8]><!-->
+    <link rel='stylesheet' href='http://food.files.bbci.co.uk/kandl-food/1130/css/style.css'/>
+    <!--<![endif]-->
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    
+<meta name="robots" content="NOINDEX, FOLLOW" />
+
+</head>
+
+<body class="noblq">
+
+<div class="food-body">
+    <div class="food-wrapper">
+        <div class="food-header">
+            <a class="food-blocks" href="/">BBC</a>
+            <div class="page-title">
+                <div class="page-title__logo-wrapper">
+                    <a class="page-title__logo" href="/food/" title="Food homepage">Food</a>
+                    <span class="page-title__text">Shopping List</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="food-grid">
+        <div class="food-content-wrapper">
+            
+<div class="shopping-list-body">
+    <div class="shopping-list-wrap">
+        <div class="shopping-list">
+            
+    <h1 class="content-title__text" itemprop="name">Lamb cutlets marinated with spiced dates and sultanas </h1>
+
+
+
+            
+                
+                <div class="shopping-list__group shopping-list__group--fruit-and-vegetables">
+                    <h2 class="shopping-list__location-heading">Fruit and vegetables</h2>
+
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="fruit-and-vegetables-ingredient-1" />
+                        <label class="shopping-list__label" for="fruit-and-vegetables-ingredient-1">1 small carrot, cut into 1cm/½in dice</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="fruit-and-vegetables-ingredient-2" />
+                        <label class="shopping-list__label" for="fruit-and-vegetables-ingredient-2">1 green chilli</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="fruit-and-vegetables-ingredient-3" />
+                        <label class="shopping-list__label" for="fruit-and-vegetables-ingredient-3">handful coriander leaves</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="fruit-and-vegetables-ingredient-4" />
+                        <label class="shopping-list__label" for="fruit-and-vegetables-ingredient-4">small handful chopped coriander</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="fruit-and-vegetables-ingredient-5" />
+                        <label class="shopping-list__label" for="fruit-and-vegetables-ingredient-5">¼ cucumber, peeled, cut into 1cm/½in dice </label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="fruit-and-vegetables-ingredient-6" />
+                        <label class="shopping-list__label" for="fruit-and-vegetables-ingredient-6">10g garlic</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="fruit-and-vegetables-ingredient-7" />
+                        <label class="shopping-list__label" for="fruit-and-vegetables-ingredient-7">2 tbsp garlic and ginger paste</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="fruit-and-vegetables-ingredient-8" />
+                        <label class="shopping-list__label" for="fruit-and-vegetables-ingredient-8">30g/1oz fresh root ginger</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="fruit-and-vegetables-ingredient-9" />
+                        <label class="shopping-list__label" for="fruit-and-vegetables-ingredient-9">55g/2oz lemon juice</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="fruit-and-vegetables-ingredient-10" />
+                        <label class="shopping-list__label" for="fruit-and-vegetables-ingredient-10">lemon juice, to taste</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="fruit-and-vegetables-ingredient-11" />
+                        <label class="shopping-list__label" for="fruit-and-vegetables-ingredient-11">½ lime, juice only</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="fruit-and-vegetables-ingredient-12" />
+                        <label class="shopping-list__label" for="fruit-and-vegetables-ingredient-12">squeeze lime juice</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="fruit-and-vegetables-ingredient-13" />
+                        <label class="shopping-list__label" for="fruit-and-vegetables-ingredient-13">handful mint leaves</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="fruit-and-vegetables-ingredient-14" />
+                        <label class="shopping-list__label" for="fruit-and-vegetables-ingredient-14">30g/1oz brown onion, roughly chopped</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="fruit-and-vegetables-ingredient-15" />
+                        <label class="shopping-list__label" for="fruit-and-vegetables-ingredient-15">5-6 sliced breakfast radishes</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="fruit-and-vegetables-ingredient-16" />
+                        <label class="shopping-list__label" for="fruit-and-vegetables-ingredient-16">1 banana shallot, cut into rings</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="fruit-and-vegetables-ingredient-17" />
+                        <label class="shopping-list__label" for="fruit-and-vegetables-ingredient-17">1 tomato, chopped, seeds removed</label>
+                    </p>
+                
+                </div>
+            
+                
+                <div class="shopping-list__group shopping-list__group--cooking-ingredients">
+                    <h2 class="shopping-list__location-heading">Cooking ingredients</h2>
+
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-1" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-1">ground cardamom</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-2" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-2">½ tsp ground cardamom</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-3" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-3">½ tsp green chilli paste </label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-4" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-4">1 tsp cumin and black cumin powder mixed 50:50</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-5" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-5">80g/2¾oz fresh dates</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-6" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-6">olive oil, to taste</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-7" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-7">pinch of salt </label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-8" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-8">¼ tsp black salt </label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-9" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-9">salt, to taste</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-10" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-10">65g/2¼oz sultanas</label>
+                    </p>
+                
+                </div>
+            
+                
+                <div class="shopping-list__group shopping-list__group--dairy-eggs-and-chilled">
+                    <h2 class="shopping-list__location-heading">Dairy, eggs and chilled</h2>
+
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="dairy-eggs-and-chilled-ingredient-1" />
+                        <label class="shopping-list__label" for="dairy-eggs-and-chilled-ingredient-1">50g/1¾oz clarified butter</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="dairy-eggs-and-chilled-ingredient-2" />
+                        <label class="shopping-list__label" for="dairy-eggs-and-chilled-ingredient-2">30g/1oz double cream</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="dairy-eggs-and-chilled-ingredient-3" />
+                        <label class="shopping-list__label" for="dairy-eggs-and-chilled-ingredient-3">about 5 tbsp strained yoghurt (strain your yogurt in a sieve lined with muslin for a few hours to get rid of excess moisture)</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="dairy-eggs-and-chilled-ingredient-4" />
+                        <label class="shopping-list__label" for="dairy-eggs-and-chilled-ingredient-4">100g/3½oz strained yoghurt (strain your yogurt in a sieve lined with muslin for a few hours to get rid of excess moisture)</label>
+                    </p>
+                
+                </div>
+            
+                
+                <div class="shopping-list__group shopping-list__group--meat-fish-and-poultry">
+                    <h2 class="shopping-list__location-heading">Meat, fish and poultry</h2>
+
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="meat-fish-and-poultry-ingredient-1" />
+                        <label class="shopping-list__label" for="meat-fish-and-poultry-ingredient-1">8 lamb cutlets </label>
+                    </p>
+                
+                </div>
+            
+                
+                <div class="shopping-list__group shopping-list__group--other">
+                    <h2 class="shopping-list__location-heading">Other</h2>
+
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="other-ingredient-1" />
+                        <label class="shopping-list__label" for="other-ingredient-1">chat massala </label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="other-ingredient-2" />
+                        <label class="shopping-list__label" for="other-ingredient-2">½ tsp chaat masala </label>
+                    </p>
+                
+                </div>
+            
+
+            <a class="shopping-list__back-link" href="/food/recipes/lamb_cutlets_marinated_27430">Back to recipe</a>
+        </div>
+    </div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    var cookie = "; " + document.cookie;
+    var cSplit = cookie.split("; ckns_policy=");
+    var ckns_policy = cSplit.pop().split(";").shift();
+
+    if (ckns_policy != "101" && ckns_policy != "000" && ckns_policy != "010") {
+        var _sf_async_config={};
+
+        /** CONFIGURATION START **/
+        _sf_async_config.uid = 50924;
+        _sf_async_config.domain = 'bbc.co.uk';
+        _sf_async_config.useCanonical = true;
+        _sf_async_config.sections = 'kandlfood';
+        _sf_async_config.authors = '';
+
+        /** CONFIGURATION END **/
+        (function(){
+            function loadChartbeat() {
+                window._sf_endpt=(new Date()).getTime();
+                var e = document.createElement('script');
+                e.setAttribute('language', 'javascript');
+                e.setAttribute('type', 'text/javascript');
+                e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+                document.body.appendChild(e);
+            }
+            var oldonload = window.onload;
+            window.onload = (typeof window.onload != 'function') ?
+                    loadChartbeat : function() { oldonload(); loadChartbeat(); };
+        })();
+    }
+</script>
+
+</body>
+</html>

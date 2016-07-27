@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html class="no-touch" lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+    <title>BBC Food - Recipes - Sticky toffee pork and vinegar slaw</title>
+
+    <script src="http://food.files.bbci.co.uk/kandl-food/1130/javascript/vendors/modernizr.js"></script>
+
+    <!--[if (lt IE 9) & (!IEMobile)]>
+    <link rel='stylesheet' href='http://food.files.bbci.co.uk/kandl-food/1130/css/ie8.css'/>
+    <![endif]-->
+
+    <!--[if gt IE 8]><!-->
+    <link rel='stylesheet' href='http://food.files.bbci.co.uk/kandl-food/1130/css/style.css'/>
+    <!--<![endif]-->
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    
+<meta name="robots" content="NOINDEX, FOLLOW" />
+
+</head>
+
+<body class="noblq">
+
+<div class="food-body">
+    <div class="food-wrapper">
+        <div class="food-header">
+            <a class="food-blocks" href="/">BBC</a>
+            <div class="page-title">
+                <div class="page-title__logo-wrapper">
+                    <a class="page-title__logo" href="/food/" title="Food homepage">Food</a>
+                    <span class="page-title__text">Shopping List</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="food-grid">
+        <div class="food-content-wrapper">
+            
+<div class="shopping-list-body">
+    <div class="shopping-list-wrap">
+        <div class="shopping-list">
+            
+    <h1 class="content-title__text" itemprop="name">Sticky toffee pork and vinegar slaw</h1>
+
+
+
+            
+                
+                <div class="shopping-list__group shopping-list__group--fruit-and-vegetables">
+                    <h2 class="shopping-list__location-heading">Fruit and vegetables</h2>
+
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="fruit-and-vegetables-ingredient-1" />
+                        <label class="shopping-list__label" for="fruit-and-vegetables-ingredient-1">2 large carrots, halved</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="fruit-and-vegetables-ingredient-2" />
+                        <label class="shopping-list__label" for="fruit-and-vegetables-ingredient-2">2 celery sticks</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="fruit-and-vegetables-ingredient-3" />
+                        <label class="shopping-list__label" for="fruit-and-vegetables-ingredient-3">2 fresh chillies, chopped</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="fruit-and-vegetables-ingredient-4" />
+                        <label class="shopping-list__label" for="fruit-and-vegetables-ingredient-4">100g/3½oz fennel</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="fruit-and-vegetables-ingredient-5" />
+                        <label class="shopping-list__label" for="fruit-and-vegetables-ingredient-5">1 head of garlic</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="fruit-and-vegetables-ingredient-6" />
+                        <label class="shopping-list__label" for="fruit-and-vegetables-ingredient-6">1 unwaxed lemon, juice and zest</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="fruit-and-vegetables-ingredient-7" />
+                        <label class="shopping-list__label" for="fruit-and-vegetables-ingredient-7">2 onions, halved</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="fruit-and-vegetables-ingredient-8" />
+                        <label class="shopping-list__label" for="fruit-and-vegetables-ingredient-8">100g/3½oz red cabbage</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="fruit-and-vegetables-ingredient-9" />
+                        <label class="shopping-list__label" for="fruit-and-vegetables-ingredient-9">1 red onion</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="fruit-and-vegetables-ingredient-10" />
+                        <label class="shopping-list__label" for="fruit-and-vegetables-ingredient-10">2 large dried shiitake mushrooms</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="fruit-and-vegetables-ingredient-11" />
+                        <label class="shopping-list__label" for="fruit-and-vegetables-ingredient-11">200g/7oz white cabbage</label>
+                    </p>
+                
+                </div>
+            
+                
+                <div class="shopping-list__group shopping-list__group--cooking-ingredients">
+                    <h2 class="shopping-list__location-heading">Cooking ingredients</h2>
+
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-1" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-1">½ tsp black peppercorns</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-2" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-2">1 tsp freshly ground black pepper</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-3" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-3">35g/1oz caster sugar</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-4" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-4">100g/3½oz dates, stoned and chopped</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-5" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-5">1 tsp fennel seeds </label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-6" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-6">½ tsp fennel seeds</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-7" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-7">½ tsp Chinese five-spice powder</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-8" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-8">100ml/3½fl oz blackstrap molasses</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-9" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-9">¼ tsp yellow mustard seeds</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-10" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-10">5 tsp extra virgin olive oil</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-11" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-11">20g/¾oz sea salt flakes</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-12" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-12">1 tsp sea salt flakes</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-13" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-13">250ml/9fl oz soy sauce</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-14" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-14">100ml/3½fl oz light soy sauce</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-15" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-15">100g/3½oz light brown muscovado sugar</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-16" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-16">50ml/2fl oz cider vinegar</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-17" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-17">50ml/2fl oz white wine vinegar</label>
+                    </p>
+                
+                </div>
+            
+                
+                <div class="shopping-list__group shopping-list__group--meat-fish-and-poultry">
+                    <h2 class="shopping-list__location-heading">Meat, fish and poultry</h2>
+
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="meat-fish-and-poultry-ingredient-1" />
+                        <label class="shopping-list__label" for="meat-fish-and-poultry-ingredient-1">1 smoked gammon or bacon hock</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="meat-fish-and-poultry-ingredient-2" />
+                        <label class="shopping-list__label" for="meat-fish-and-poultry-ingredient-2">1kg/2lb 4oz pork belly, bone in</label>
+                    </p>
+                
+                </div>
+            
+                
+                <div class="shopping-list__group shopping-list__group--other">
+                    <h2 class="shopping-list__location-heading">Other</h2>
+
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="other-ingredient-1" />
+                        <label class="shopping-list__label" for="other-ingredient-1">1 spice bag, made with 20 fennel seeds, 1 star anise, 2 cloves, ½ cinnamon stick, 1 small knob of fresh root ginger</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="other-ingredient-2" />
+                        <label class="shopping-list__label" for="other-ingredient-2">1kg/2lb 4oz pork bones, lightly roasted</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="other-ingredient-3" />
+                        <label class="shopping-list__label" for="other-ingredient-3">2 litres of master pork broth (from above), or chicken broth</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="other-ingredient-4" />
+                        <label class="shopping-list__label" for="other-ingredient-4">2 pig’s feet</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="other-ingredient-5" />
+                        <label class="shopping-list__label" for="other-ingredient-5">2 pork hocks</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="other-ingredient-6" />
+                        <label class="shopping-list__label" for="other-ingredient-6">1 bouquet garni, made with thyme, bay, rosemary and parsley</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="other-ingredient-7" />
+                        <label class="shopping-list__label" for="other-ingredient-7">handful mixed fresh herbs (parsley, coriander and mint)</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="other-ingredient-8" />
+                        <label class="shopping-list__label" for="other-ingredient-8">250ml/9fl oz Madeira</label>
+                    </p>
+                
+                </div>
+            
+
+            <a class="shopping-list__back-link" href="/food/recipes/sticky_toffee_pork_and_60124">Back to recipe</a>
+        </div>
+    </div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    var cookie = "; " + document.cookie;
+    var cSplit = cookie.split("; ckns_policy=");
+    var ckns_policy = cSplit.pop().split(";").shift();
+
+    if (ckns_policy != "101" && ckns_policy != "000" && ckns_policy != "010") {
+        var _sf_async_config={};
+
+        /** CONFIGURATION START **/
+        _sf_async_config.uid = 50924;
+        _sf_async_config.domain = 'bbc.co.uk';
+        _sf_async_config.useCanonical = true;
+        _sf_async_config.sections = 'kandlfood';
+        _sf_async_config.authors = '';
+
+        /** CONFIGURATION END **/
+        (function(){
+            function loadChartbeat() {
+                window._sf_endpt=(new Date()).getTime();
+                var e = document.createElement('script');
+                e.setAttribute('language', 'javascript');
+                e.setAttribute('type', 'text/javascript');
+                e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+                document.body.appendChild(e);
+            }
+            var oldonload = window.onload;
+            window.onload = (typeof window.onload != 'function') ?
+                    loadChartbeat : function() { oldonload(); loadChartbeat(); };
+        })();
+    }
+</script>
+
+</body>
+</html>

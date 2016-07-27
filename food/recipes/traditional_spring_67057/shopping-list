@@ -1,0 +1,542 @@
+<!DOCTYPE html>
+<html class="no-touch" lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+    <title>BBC Food - Recipes - Traditional spring wedding cake </title>
+
+    <script src="http://food.files.bbci.co.uk/kandl-food/1130/javascript/vendors/modernizr.js"></script>
+
+    <!--[if (lt IE 9) & (!IEMobile)]>
+    <link rel='stylesheet' href='http://food.files.bbci.co.uk/kandl-food/1130/css/ie8.css'/>
+    <![endif]-->
+
+    <!--[if gt IE 8]><!-->
+    <link rel='stylesheet' href='http://food.files.bbci.co.uk/kandl-food/1130/css/style.css'/>
+    <!--<![endif]-->
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    
+<meta name="robots" content="NOINDEX, FOLLOW" />
+
+</head>
+
+<body class="noblq">
+
+<div class="food-body">
+    <div class="food-wrapper">
+        <div class="food-header">
+            <a class="food-blocks" href="/">BBC</a>
+            <div class="page-title">
+                <div class="page-title__logo-wrapper">
+                    <a class="page-title__logo" href="/food/" title="Food homepage">Food</a>
+                    <span class="page-title__text">Shopping List</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="food-grid">
+        <div class="food-content-wrapper">
+            
+<div class="shopping-list-body">
+    <div class="shopping-list-wrap">
+        <div class="shopping-list">
+            
+    <h1 class="content-title__text" itemprop="name">Traditional spring wedding cake </h1>
+
+
+
+            
+                
+                <div class="shopping-list__group shopping-list__group--fruit-and-vegetables">
+                    <h2 class="shopping-list__location-heading">Fruit and vegetables</h2>
+
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="fruit-and-vegetables-ingredient-1" />
+                        <label class="shopping-list__label" for="fruit-and-vegetables-ingredient-1">60g/2oz dried cranberries</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="fruit-and-vegetables-ingredient-2" />
+                        <label class="shopping-list__label" for="fruit-and-vegetables-ingredient-2">115g/4oz dried cranberries</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="fruit-and-vegetables-ingredient-3" />
+                        <label class="shopping-list__label" for="fruit-and-vegetables-ingredient-3">225g/8oz dried cranberries</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="fruit-and-vegetables-ingredient-4" />
+                        <label class="shopping-list__label" for="fruit-and-vegetables-ingredient-4">½ lemon, zest only</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="fruit-and-vegetables-ingredient-5" />
+                        <label class="shopping-list__label" for="fruit-and-vegetables-ingredient-5">1 lemon, zest only</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="fruit-and-vegetables-ingredient-6" />
+                        <label class="shopping-list__label" for="fruit-and-vegetables-ingredient-6">2 lemons, zest only</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="fruit-and-vegetables-ingredient-7" />
+                        <label class="shopping-list__label" for="fruit-and-vegetables-ingredient-7">½ orange, zest only</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="fruit-and-vegetables-ingredient-8" />
+                        <label class="shopping-list__label" for="fruit-and-vegetables-ingredient-8">1 orange, zest only</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="fruit-and-vegetables-ingredient-9" />
+                        <label class="shopping-list__label" for="fruit-and-vegetables-ingredient-9">2 oranges, zest only</label>
+                    </p>
+                
+                </div>
+            
+                
+                <div class="shopping-list__group shopping-list__group--tins-packets-and-jars">
+                    <h2 class="shopping-list__location-heading">Tins, packets and jars</h2>
+
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="tins-packets-and-jars-ingredient-1" />
+                        <label class="shopping-list__label" for="tins-packets-and-jars-ingredient-1">1 x 340g/12oz jar apricot jam</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="tins-packets-and-jars-ingredient-2" />
+                        <label class="shopping-list__label" for="tins-packets-and-jars-ingredient-2">115g/4oz plain flour</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="tins-packets-and-jars-ingredient-3" />
+                        <label class="shopping-list__label" for="tins-packets-and-jars-ingredient-3">225g/8oz plain flour</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="tins-packets-and-jars-ingredient-4" />
+                        <label class="shopping-list__label" for="tins-packets-and-jars-ingredient-4">475g/1lb 1oz plain flour</label>
+                    </p>
+                
+                </div>
+            
+                
+                <div class="shopping-list__group shopping-list__group--cooking-ingredients">
+                    <h2 class="shopping-list__location-heading">Cooking ingredients</h2>
+
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-1" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-1">50g/2oz blanched whole almonds, roughly chopped (optional)</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-2" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-2">225g/8oz blanched whole almonds, roughly chopped (optional)</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-3" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-3">115g/4oz blanched whole almonds, roughly chopped (optional)</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-4" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-4">50g/2oz soft brown sugar</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-5" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-5">225g/8oz soft brown sugar</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-6" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-6">100g/3½oz soft brown sugar</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-7" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-7">150g/5½oz caster sugar</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-8" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-8">150g/5½oz caster sugar</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-9" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-9">75g/2¾oz caster sugar</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-10" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-10">½ tbsp cocoa powder</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-11" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-11">1 tbsp cocoa powder</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-12" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-12">2 tbsp cocoa powder</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-13" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-13">115g/4oz currants</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-14" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-14">225g/8oz currants</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-15" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-15">475g/1lb 1oz currants</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-16" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-16">450g/1lb dried apricots, chopped</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-17" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-17">225g/8oz dried apricots, chopped</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-18" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-18">110g/4oz dried apricots, chopped</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-19" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-19">100g/3½oz glacé cherries</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-20" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-20">450g/1lb glacé cherries</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-21" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-21">200g/7oz glacé cherries</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-22" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-22">225g/8oz ground almonds</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-23" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-23">475g/1lb 1oz ground almonds</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-24" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-24">115g/4oz ground almonds</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-25" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-25">5.15kg/11lb 6oz ready-to-roll white icing</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-26" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-26">500g/1lb 2oz yellow sugar paste icing</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-27" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-27">1kg/2lb 4 oz white sugar paste icing</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-28" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-28">icing sugar, for dusting</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-29" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-29">3.5kg/7lb 11oz marzipan</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-30" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-30">½ tsp mixed spice</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-31" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-31">1 tsp mixed spice</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-32" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-32">¼ tsp mixed spice</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-33" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-33">1 tsp ground nutmeg</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-34" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-34">½ tsp ground nutmeg</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-35" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-35">¼ tsp ground nutmeg</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-36" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-36">1 tsp salt</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-37" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-37">¼ tsp salt</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-38" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-38">½ tsp salt</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-39" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-39">85g/3oz sultanas</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-40" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-40">350g/12oz sultanas</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-41" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-41">175g/6oz sultanas</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-42" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-42">1 tsp vanilla essence</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-43" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-43">½ tsp vanilla essence</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-44" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-44">2 tsp vanilla essence</label>
+                    </p>
+                
+                </div>
+            
+                
+                <div class="shopping-list__group shopping-list__group--drinks">
+                    <h2 class="shopping-list__location-heading">Drinks</h2>
+
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="drinks-ingredient-1" />
+                        <label class="shopping-list__label" for="drinks-ingredient-1">85ml/3fl oz brandy </label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="drinks-ingredient-2" />
+                        <label class="shopping-list__label" for="drinks-ingredient-2">175ml/6fl oz brandy </label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="drinks-ingredient-3" />
+                        <label class="shopping-list__label" for="drinks-ingredient-3">350ml/12fl oz brandy </label>
+                    </p>
+                
+                </div>
+            
+                
+                <div class="shopping-list__group shopping-list__group--dairy-eggs-and-chilled">
+                    <h2 class="shopping-list__location-heading">Dairy, eggs and chilled</h2>
+
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="dairy-eggs-and-chilled-ingredient-1" />
+                        <label class="shopping-list__label" for="dairy-eggs-and-chilled-ingredient-1">125g/4½oz butter</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="dairy-eggs-and-chilled-ingredient-2" />
+                        <label class="shopping-list__label" for="dairy-eggs-and-chilled-ingredient-2">250g/9oz butter</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="dairy-eggs-and-chilled-ingredient-3" />
+                        <label class="shopping-list__label" for="dairy-eggs-and-chilled-ingredient-3">550g/1lb 4oz butter</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="dairy-eggs-and-chilled-ingredient-4" />
+                        <label class="shopping-list__label" for="dairy-eggs-and-chilled-ingredient-4">3 free-range eggs, lightly beaten</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="dairy-eggs-and-chilled-ingredient-5" />
+                        <label class="shopping-list__label" for="dairy-eggs-and-chilled-ingredient-5">6 free-range eggs, lightly beaten</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="dairy-eggs-and-chilled-ingredient-6" />
+                        <label class="shopping-list__label" for="dairy-eggs-and-chilled-ingredient-6">12 free-range eggs, lightly beaten</label>
+                    </p>
+                
+                </div>
+            
+                
+                <div class="shopping-list__group shopping-list__group--other">
+                    <h2 class="shopping-list__location-heading">Other</h2>
+
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="other-ingredient-1" />
+                        <label class="shopping-list__label" for="other-ingredient-1">edible glue</label>
+                    </p>
+                
+                </div>
+            
+
+            <a class="shopping-list__back-link" href="/food/recipes/traditional_spring_67057">Back to recipe</a>
+        </div>
+    </div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    var cookie = "; " + document.cookie;
+    var cSplit = cookie.split("; ckns_policy=");
+    var ckns_policy = cSplit.pop().split(";").shift();
+
+    if (ckns_policy != "101" && ckns_policy != "000" && ckns_policy != "010") {
+        var _sf_async_config={};
+
+        /** CONFIGURATION START **/
+        _sf_async_config.uid = 50924;
+        _sf_async_config.domain = 'bbc.co.uk';
+        _sf_async_config.useCanonical = true;
+        _sf_async_config.sections = 'kandlfood';
+        _sf_async_config.authors = '';
+
+        /** CONFIGURATION END **/
+        (function(){
+            function loadChartbeat() {
+                window._sf_endpt=(new Date()).getTime();
+                var e = document.createElement('script');
+                e.setAttribute('language', 'javascript');
+                e.setAttribute('type', 'text/javascript');
+                e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+                document.body.appendChild(e);
+            }
+            var oldonload = window.onload;
+            window.onload = (typeof window.onload != 'function') ?
+                    loadChartbeat : function() { oldonload(); loadChartbeat(); };
+        })();
+    }
+</script>
+
+</body>
+</html>

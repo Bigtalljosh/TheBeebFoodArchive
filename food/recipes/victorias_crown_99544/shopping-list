@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html class="no-touch" lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+    <title>BBC Food - Recipes - Victoria&#39;s crown</title>
+
+    <script src="http://food.files.bbci.co.uk/kandl-food/1130/javascript/vendors/modernizr.js"></script>
+
+    <!--[if (lt IE 9) & (!IEMobile)]>
+    <link rel='stylesheet' href='http://food.files.bbci.co.uk/kandl-food/1130/css/ie8.css'/>
+    <![endif]-->
+
+    <!--[if gt IE 8]><!-->
+    <link rel='stylesheet' href='http://food.files.bbci.co.uk/kandl-food/1130/css/style.css'/>
+    <!--<![endif]-->
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    
+<meta name="robots" content="NOINDEX, FOLLOW" />
+
+</head>
+
+<body class="noblq">
+
+<div class="food-body">
+    <div class="food-wrapper">
+        <div class="food-header">
+            <a class="food-blocks" href="/">BBC</a>
+            <div class="page-title">
+                <div class="page-title__logo-wrapper">
+                    <a class="page-title__logo" href="/food/" title="Food homepage">Food</a>
+                    <span class="page-title__text">Shopping List</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="food-grid">
+        <div class="food-content-wrapper">
+            
+<div class="shopping-list-body">
+    <div class="shopping-list-wrap">
+        <div class="shopping-list">
+            
+    <h1 class="content-title__text" itemprop="name">Victoria&#39;s crown</h1>
+
+
+
+            
+                
+                <div class="shopping-list__group shopping-list__group--fruit-and-vegetables">
+                    <h2 class="shopping-list__location-heading">Fruit and vegetables</h2>
+
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="fruit-and-vegetables-ingredient-1" />
+                        <label class="shopping-list__label" for="fruit-and-vegetables-ingredient-1">110g/4oz fresh ginger, thinly sliced</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="fruit-and-vegetables-ingredient-2" />
+                        <label class="shopping-list__label" for="fruit-and-vegetables-ingredient-2">400g/14oz rhubarb, trimmed and roughly chopped</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="fruit-and-vegetables-ingredient-3" />
+                        <label class="shopping-list__label" for="fruit-and-vegetables-ingredient-3">400g/14oz rhubarb, trimmed and roughly chopped</label>
+                    </p>
+                
+                </div>
+            
+                
+                <div class="shopping-list__group shopping-list__group--tins-packets-and-jars">
+                    <h2 class="shopping-list__location-heading">Tins, packets and jars</h2>
+
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="tins-packets-and-jars-ingredient-1" />
+                        <label class="shopping-list__label" for="tins-packets-and-jars-ingredient-1">red food colouring</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="tins-packets-and-jars-ingredient-2" />
+                        <label class="shopping-list__label" for="tins-packets-and-jars-ingredient-2">270g/9¾oz plain flour</label>
+                    </p>
+                
+                </div>
+            
+                
+                <div class="shopping-list__group shopping-list__group--cooking-ingredients">
+                    <h2 class="shopping-list__location-heading">Cooking ingredients</h2>
+
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-1" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-1">250g/9oz caster sugar</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-2" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-2">120g/4¼oz caster sugar</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-3" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-3">50g/1¾oz caster sugar </label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-4" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-4">300g/10½oz golden caster sugar </label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-5" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-5">50g/1¾oz fondant icing sugar </label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-6" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-6">5 sheets gelatine</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-7" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-7">15 sheets gelatine</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-8" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-8">5 sheets leaf gelatine</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-9" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-9">50g/1¾oz icing sugar</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-10" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-10">4 pieces stem ginger in syrup, finely chopped</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-11" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-11">160g/5¾oz golden granulated sugar</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-12" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-12">5 tsp vanilla paste</label>
+                    </p>
+                
+                </div>
+            
+                
+                <div class="shopping-list__group shopping-list__group--biscuits-snacks-and-sweets">
+                    <h2 class="shopping-list__location-heading">Biscuits, snacks and sweets</h2>
+
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="biscuits-snacks-and-sweets-ingredient-1" />
+                        <label class="shopping-list__label" for="biscuits-snacks-and-sweets-ingredient-1">3 tsp vanilla paste</label>
+                    </p>
+                
+                </div>
+            
+                
+                <div class="shopping-list__group shopping-list__group--dairy-eggs-and-chilled">
+                    <h2 class="shopping-list__location-heading">Dairy, eggs and chilled</h2>
+
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="dairy-eggs-and-chilled-ingredient-1" />
+                        <label class="shopping-list__label" for="dairy-eggs-and-chilled-ingredient-1">800ml/1⅓ pint double cream</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="dairy-eggs-and-chilled-ingredient-2" />
+                        <label class="shopping-list__label" for="dairy-eggs-and-chilled-ingredient-2">6 large free-range eggs, separated</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="dairy-eggs-and-chilled-ingredient-3" />
+                        <label class="shopping-list__label" for="dairy-eggs-and-chilled-ingredient-3">10 large egg yolks</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="dairy-eggs-and-chilled-ingredient-4" />
+                        <label class="shopping-list__label" for="dairy-eggs-and-chilled-ingredient-4">270ml/9½fl oz full-fat milk</label>
+                    </p>
+                
+                </div>
+            
+                
+                <div class="shopping-list__group shopping-list__group--other">
+                    <h2 class="shopping-list__location-heading">Other</h2>
+
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="other-ingredient-1" />
+                        <label class="shopping-list__label" for="other-ingredient-1">1 bag of ice</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="other-ingredient-2" />
+                        <label class="shopping-list__label" for="other-ingredient-2">2 large clear edible diamonds, 2cm/¾in diameter (optional)</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="other-ingredient-3" />
+                        <label class="shopping-list__label" for="other-ingredient-3">24 clear edible diamonds, 1cm/½in diameter (optional)</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="other-ingredient-4" />
+                        <label class="shopping-list__label" for="other-ingredient-4">4-5 lemon verbena leaves </label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="other-ingredient-5" />
+                        <label class="shopping-list__label" for="other-ingredient-5">edible gold spray</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="other-ingredient-6" />
+                        <label class="shopping-list__label" for="other-ingredient-6">edible silver balls</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="other-ingredient-7" />
+                        <label class="shopping-list__label" for="other-ingredient-7">reserved juice from roasted rhubarb</label>
+                    </p>
+                
+                </div>
+            
+
+            <a class="shopping-list__back-link" href="/food/recipes/victorias_crown_99544">Back to recipe</a>
+        </div>
+    </div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    var cookie = "; " + document.cookie;
+    var cSplit = cookie.split("; ckns_policy=");
+    var ckns_policy = cSplit.pop().split(";").shift();
+
+    if (ckns_policy != "101" && ckns_policy != "000" && ckns_policy != "010") {
+        var _sf_async_config={};
+
+        /** CONFIGURATION START **/
+        _sf_async_config.uid = 50924;
+        _sf_async_config.domain = 'bbc.co.uk';
+        _sf_async_config.useCanonical = true;
+        _sf_async_config.sections = 'kandlfood';
+        _sf_async_config.authors = '';
+
+        /** CONFIGURATION END **/
+        (function(){
+            function loadChartbeat() {
+                window._sf_endpt=(new Date()).getTime();
+                var e = document.createElement('script');
+                e.setAttribute('language', 'javascript');
+                e.setAttribute('type', 'text/javascript');
+                e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+                document.body.appendChild(e);
+            }
+            var oldonload = window.onload;
+            window.onload = (typeof window.onload != 'function') ?
+                    loadChartbeat : function() { oldonload(); loadChartbeat(); };
+        })();
+    }
+</script>
+
+</body>
+</html>

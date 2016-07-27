@@ -1,0 +1,2021 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#" xml:lang="en-GB">
+        
+    
+    
+    
+	
+    
+    
+    
+    
+    
+    
+    
+	
+    
+	
+    
+	
+	
+	
+	
+    
+	
+    
+        
+    
+<!-- THIS FILE CONFIGURES SHARED HIGHWEB STATIC ASSETS -->
+
+
+
+
+
+<!-- mapping_knowledge_learning include -->
+<!-- THIS FILE CONFIGURES KNOWLEDGE LEARNING HIGHWEB STATIC ASSETS  -->
+
+
+
+
+    <!-- hi/shared/head_initial.inc -->
+
+
+
+
+
+
+<!-- set CPS_HTTP_HOST_DOMAIN for news and ww1 -->
+
+
+
+	        <head profile="http://dublincore.org/documents/dcq-html/" resource="http://www.bbc.co.uk/food/0/22312547" typeof="rnews:NewsItem">
+        <meta http-equiv="X-UA-Compatible" content="IE=8" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>BBC Food - Can you succeed in sport on a specialist diet?</title>
+        <meta name="Description" content="Can people on specialist diets succeed in sport?"/>
+        <meta property="rnews:description" content="Can people on specialist diets succeed in sport?"/>
+                <meta name="OriginalPublicationDate" content="2013/05/08 02:05:37"/>
+        <meta property="rnews:datePublished" content="2013/05/08 02:05:37"/>
+        <meta name="UKFS_URL" content="/food/0/22312547"/>
+                <meta name="THUMBNAIL_URL" content="http://news.bbcimg.co.uk/media/images/67470000/jpg/_67470587_michaelsvoboda_154956530.jpg"/>
+        <meta property="rnews:thumbnailUrl" content="http://news.bbcimg.co.uk/media/images/67470000/jpg/_67470587_michaelsvoboda_154956530.jpg"/>
+                <meta name="Headline" content="Eat to win"/>
+        <meta property="rnews:headline" content="Eat to win"/>
+        <meta name="IFS_URL" content="/food/0/22312547"/>
+        <meta name="Section" content="BBC Food"/>
+        <meta name="contentFlavor" content="STORY"/>
+		                        <meta name="CPS_ID" content="22312547" />
+        <meta name="CPS_SITE_NAME" content="BBC Food" />
+        <meta name="CPS_SECTION_PATH" content="Home" />
+        <meta name="CPS_ASSET_TYPE" content="STY" />
+        <meta name="CPS_PLATFORM" content="HighWeb" />
+        <meta name="CPS_AUDIENCE" content="Domestic" />
+        <meta property="rnews:creator" content="http://www.bbc.co.uk#org"/>        
+        
+            		<meta property="og:title" content="Eat to win"/>
+    		<meta property="og:type" content="article"/>
+    		<meta property="og:url" content="http://www.bbc.co.uk/food/0/22312547"/>
+    		<meta property="og:site_name" content="BBC Food"/>
+            			<meta property="og:image" content="http://news.bbcimg.co.uk/media/images/67470000/jpg/_67470588_michaelsvoboda_154956530.jpg"/>
+											        
+				<meta name="bbcsearch_noindex" content="atom"/>
+		
+        <link rel="canonical" href="http://www.bbc.co.uk/food/0/22312547" />
+       	        		        
+        		
+        <!-- hi/knowledge_learning/head_first.inc -->
+ 
+        <!-- Project IGOR - Barlesque redirection logic - START -->
+
+
+<!-- Project IGOR - Barlesque redirection logic - END -->
+
+
+<!-- PULSE_ENABLED:yes -->
+
+<!-- vars inc blq_cachebust_journalism update 1.21.30 -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+		
+	
+
+
+
+	
+		
+			
+		
+	
+	
+	
+	
+	
+
+	
+
+	
+	
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+	
+		
+
+    
+   <meta http-equiv="X-UA-Compatible" content="IE=8" />  
+  <link rel="schema.dcterms" href="http://purl.org/dc/terms/" />  <link rel="copyright" href="http://www.bbc.co.uk/terms/" title="Terms of Use" /> <link rel="icon" href="http://www.bbc.co.uk/favicon.ico" type="image/x-icon" />  <meta name="viewport" content="width = 996" /> <meta property="fb:admins" content="100004154058350" /> 
+
+<script type="text/javascript">window.orb = window.orb || {};</script>
+<script type="text/javascript">/*<![CDATA[*/
+(function(){window.fig=window.fig||{};window.fig.manager={include:function(e){e=e||window;var i=e.document,j=i.cookie,h=j.match(/(?:^|; ?)ckns_orb_fig=([^;]+)/),g,b="";if(!h&&j.indexOf("ckns_orb_nofig=1")>-1){this.setFig(e,{no:1})}else{if(h){h=this.deserialise(decodeURIComponent(RegExp.$1));this.setFig(e,h)}if(window.fig.async&&typeof JSON!="undefined"){var a=(document.cookie.match("(^|; )ckns_orb_cachedfig=([^;]*)")||0)[2];g=a?JSON.parse(a):null;if(g){this.setFig(e,g);b="async"}}i.write('<script src="https://fig.bbc.co.uk/frameworks/fig/1/fig.js"'+b+"><"+"/script>")}},confirm:function(a){a=a||window;if(a.orb&&a.orb.fig&&a.orb.fig("no")){this.setNoFigCookie(a)}if(a.orb===undefined||a.orb.fig===undefined){this.setFig(a,{no:1});this.setNoFigCookie(a)}},setNoFigCookie:function(a){a.document.cookie="ckns_orb_nofig=1; expires="+new Date(new Date().getTime()+1000*60*10).toGMTString()+";"},setFig:function(a,b){(function(){var c=b;a.orb=a.orb||{};a.orb.fig=function(d){return(arguments.length)?c[d]:c}})()},deserialise:function(b){var a={};b.replace(/([a-z]{2}):([0-9]+)/g,function(){a[RegExp.$1]=+RegExp.$2});return a}}})();fig.manager.include();/*]]>*/</script>
+<script type="text/javascript"> fig.manager.confirm(); </script>
+
+ <link rel="stylesheet" type="text/css" href="http://static.bbci.co.uk/frameworks/barlesque/3.8.0/desktop/3.5/style/main.css"  />  <script type="text/javascript">/*<![CDATA[*/ (function(undefined){if(!window.bbc){window.bbc={}}var ROLLING_PERIOD_DAYS=30;window.bbc.Mandolin=function(id,segments,opts){var now=new Date().getTime(),storedItem,DEFAULT_START=now,DEFAULT_RATE=1,COOKIE_NAME="ckpf_mandolin";opts=opts||{};this._id=id;this._segmentSet=segments;this._store=new window.window.bbc.Mandolin.Storage(COOKIE_NAME);this._opts=opts;this._rate=(opts.rate!==undefined)?+opts.rate:DEFAULT_RATE;this._startTs=(opts.start!==undefined)?new Date(opts.start).getTime():new Date(DEFAULT_START).getTime();this._endTs=(opts.end!==undefined)?new Date(opts.end).getTime():daysFromNow(ROLLING_PERIOD_DAYS);this._signupEndTs=(opts.signupEnd!==undefined)?new Date(opts.signupEnd).getTime():this._endTs;this._segment=null;if(typeof id!=="string"){throw new Error("Invalid Argument: id must be defined and be a string")}if(Object.prototype.toString.call(segments)!=="[object Array]"){throw new Error("Invalid Argument: Segments are required.")}if(opts.rate!==undefined&&(opts.rate<0||opts.rate>1)){throw new Error("Invalid Argument: Rate must be between 0 and 1.")}if(this._startTs>this._endTs){throw new Error("Invalid Argument: end date must occur after start date.")}if(!(this._startTs<this._signupEndTs&&this._signupEndTs<=this._endTs)){throw new Error("Invalid Argument: SignupEnd must be between start and end date")}removeExpired.call(this,now);var overrides=window.bbccookies.get().match(/ckns_mandolin_setSegments=([^;]+)/);if(overrides!==null){eval("overrides = "+decodeURIComponent(RegExp.$1)+";");if(overrides[this._id]&&this._segmentSet.indexOf(overrides[this._id])==-1){throw new Error("Invalid Override: overridden segment should exist in segments array")}}if(overrides!==null&&overrides[this._id]){this._segment=overrides[this._id]}else{if((storedItem=this._store.getItem(this._id))){this._segment=storedItem.segment}else{if(this._startTs<=now&&now<this._signupEndTs&&now<=this._endTs&&this._store.isEnabled()===true){this._segment=pick(segments,this._rate);if(opts.end===undefined){this._store.setItem(this._id,{segment:this._segment})}else{this._store.setItem(this._id,{segment:this._segment,end:this._endTs})}log.call(this,"mandolin_segment")}}}log.call(this,"mandolin_view")};window.bbc.Mandolin.prototype.getSegment=function(){return this._segment};function log(actionType,params){var that=this;require(["istats-1"],function(istats){istats.log(actionType,that._id+":"+that._segment,params?params:{})})}function removeExpired(expires){var items=this._store.getItems(),expiresInt=+expires;for(var key in items){if(items[key].end!==undefined&&+items[key].end<expiresInt){this._store.removeItem(key)}}}function getLastExpirationDate(data){var winner=0,rollingExpire=daysFromNow(ROLLING_PERIOD_DAYS);for(var key in data){if(data[key].end===undefined&&rollingExpire>winner){winner=rollingExpire}else{if(+data[key].end>winner){winner=+data[key].end}}}return(winner)?new Date(winner):new Date(rollingExpire)}window.bbc.Mandolin.prototype.log=function(params){log.call(this,"mandolin_log",params)};window.bbc.Mandolin.prototype.convert=function(params){log.call(this,"mandolin_convert",params);this.convert=function(){}};function daysFromNow(n){var endDate;endDate=new Date().getTime()+(n*60*60*24)*1000;return endDate}function pick(segments,rate){var picked,min=0,max=segments.length-1;if(typeof rate==="number"&&Math.random()>rate){return null}do{picked=Math.floor(Math.random()*(max-min+1))+min}while(picked>max);return segments[picked]}window.bbc.Mandolin.Storage=function(name){validateCookieName(name);this._cookieName=name;this._isEnabled=(bbccookies.isAllowed(this._cookieName)===true&&bbccookies.cookiesEnabled()===true)};window.bbc.Mandolin.Storage.prototype.setItem=function(key,value){var storeData=this.getItems();storeData[key]=value;this.save(storeData);return value};window.bbc.Mandolin.Storage.prototype.isEnabled=function(){return this._isEnabled};window.bbc.Mandolin.Storage.prototype.getItem=function(key){var storeData=this.getItems();return storeData[key]};window.bbc.Mandolin.Storage.prototype.removeItem=function(key){var storeData=this.getItems();delete storeData[key];this.save(storeData)};window.bbc.Mandolin.Storage.prototype.getItems=function(){return deserialise(this.readCookie(this._cookieName)||"")};window.bbc.Mandolin.Storage.prototype.save=function(data){window.bbccookies.set(this._cookieName+"="+encodeURIComponent(serialise(data))+"; expires="+getLastExpirationDate(data).toUTCString()+";")};window.bbc.Mandolin.Storage.prototype.readCookie=function(name){var nameEq=name+"=",ca=window.bbccookies.get().split("; "),i,c;validateCookieName(name);for(i=0;i<ca.length;i++){c=ca[i];if(c.indexOf(nameEq)===0){return decodeURIComponent(c.substring(nameEq.length,c.length))}}return null};function serialise(o){var str="";for(var p in o){if(o.hasOwnProperty(p)){str+='"'+p+'"'+":"+(typeof o[p]==="object"?(o[p]===null?"null":"{"+serialise(o[p])+"}"):'"'+o[p].toString()+'"')+","}}return str.replace(/,\}/g,"}").replace(/,$/g,"")}function deserialise(str){var o;str="{"+str+"}";if(!validateSerialisation(str)){throw"Invalid input provided for deserialisation."}eval("o = "+str);return o}var validateSerialisation=(function(){var OBJECT_TOKEN="<Object>",ESCAPED_CHAR='"\\n\\r\\u2028\\u2029\\u000A\\u000D\\u005C',ALLOWED_CHAR="([^"+ESCAPED_CHAR+"]|\\\\["+ESCAPED_CHAR+"])",KEY='"'+ALLOWED_CHAR+'+"',VALUE='(null|"'+ALLOWED_CHAR+'*"|'+OBJECT_TOKEN+")",KEY_VALUE=KEY+":"+VALUE,KEY_VALUE_SEQUENCE="("+KEY_VALUE+",)*"+KEY_VALUE,OBJECT_LITERAL="({}|{"+KEY_VALUE_SEQUENCE+"})",objectPattern=new RegExp(OBJECT_LITERAL,"g");return function(str){if(str.indexOf(OBJECT_TOKEN)!==-1){return false}while(str.match(objectPattern)){str=str.replace(objectPattern,OBJECT_TOKEN)}return str===OBJECT_TOKEN}})();function validateCookieName(name){if(name.match(/ ,;/)){throw"Illegal name provided, must be valid in browser cookie."}}})(); /*]]>*/</script>  <script type="text/javascript">/*<![CDATA[*/ if (typeof bbccookies_flag === 'undefined') { bbccookies_flag = 'ON'; } showCTA_flag = true; cta_enabled = (showCTA_flag && (bbccookies_flag === 'ON')); (function(){var e="ckns_policy",m="Thu, 01 Jan 1970 00:00:00 GMT",k={ads:true,personalisation:true,performance:true,necessary:true};function f(p){if(f.cache[p]){return f.cache[p]}var o=p.split("/"),q=[""];do{q.unshift((o.join("/")||"/"));o.pop()}while(q[0]!=="/");f.cache[p]=q;return q}f.cache={};function a(p){if(a.cache[p]){return a.cache[p]}var q=p.split("."),o=[];while(q.length&&"|co.uk|com|".indexOf("|"+q.join(".")+"|")===-1){if(q.length){o.push(q.join("."))}q.shift()}f.cache[p]=o;return o}a.cache={};function i(o,t,p){var z=[""].concat(a(window.location.hostname)),w=f(window.location.pathname),y="",r,x;for(var s=0,v=z.length;s<v;s++){r=z[s];for(var q=0,u=w.length;q<u;q++){x=w[q];y=o+"="+t+";"+(r?"domain="+r+";":"")+(x?"path="+x+";":"")+(p?"expires="+p+";":"");bbccookies.set(y,true)}}}window.bbccookies={POLICY_REFRESH_DATE_MILLIS:new Date(2015,4,21,0,0,0,0).getTime(),POLICY_EXPIRY_COOKIENAME:"ckns_policy_exp",_setEverywhere:i,cookiesEnabled:function(){var o="ckns_testcookie"+Math.floor(Math.random()*100000);this.set(o+"=1");if(this.get().indexOf(o)>-1){g(o);return true}return false},set:function(o){return document.cookie=o},get:function(){return document.cookie},getCrumb:function(o){if(!o){return null}return decodeURIComponent(document.cookie.replace(new RegExp("(?:(?:^|.*;)\\s*"+encodeURIComponent(o).replace(/[\-\.\+\*]/g,"\\$&")+"\\s*\\=\\s*([^;]*).*$)|^.*$"),"$1"))||null},policyRequiresRefresh:function(){var p=new Date();p.setHours(0);p.setMinutes(0);p.setSeconds(0);p.setMilliseconds(0);if(bbccookies.POLICY_REFRESH_DATE_MILLIS<=p.getTime()){var o=bbccookies.getCrumb(bbccookies.POLICY_EXPIRY_COOKIENAME);if(o){o=new Date(parseInt(o));o.setYear(o.getFullYear()-1);return bbccookies.POLICY_REFRESH_DATE_MILLIS>=o.getTime()}else{return true}}else{return false}},_setPolicy:function(o){return h.apply(this,arguments)},readPolicy:function(){return b.apply(this,arguments)},_deletePolicy:function(){i(e,"",m)},isAllowed:function(){return true},_isConfirmed:function(){return c()!==null},_acceptsAll:function(){var o=b();return o&&!(j(o).indexOf("0")>-1)},_getCookieName:function(){return d.apply(this,arguments)},_showPrompt:function(){var o=((!this._isConfirmed()||this.policyRequiresRefresh())&&window.cta_enabled&&this.cookiesEnabled()&&!window.bbccookies_disable);return(window.orb&&window.orb.fig)?o&&(window.orb.fig("no")||window.orb.fig("ck")):o}};bbccookies._getPolicy=bbccookies.readPolicy;function d(p){var o=(""+p).match(/^([^=]+)(?==)/);return(o&&o.length?o[0]:"")}function j(o){return""+(o.ads?1:0)+(o.personalisation?1:0)+(o.performance?1:0)}function h(s){if(typeof s==="undefined"){s=k}if(typeof arguments[0]==="string"){var p=arguments[0],r=arguments[1];if(p==="necessary"){r=true}s=b();s[p]=r}else{if(typeof arguments[0]==="object"){s.necessary=true}}var q=new Date();q.setYear(q.getFullYear()+1);bbccookies.set(e+"="+j(s)+";domain=bbc.co.uk;path=/;expires="+q.toUTCString()+";");bbccookies.set(e+"="+j(s)+";domain=bbc.com;path=/;expires="+q.toUTCString()+";");var o=new Date(q.getTime());o.setMonth(o.getMonth()+1);bbccookies.set(bbccookies.POLICY_EXPIRY_COOKIENAME+"="+q.getTime()+";domain=bbc.co.uk;path=/;expires="+o.toUTCString()+";");bbccookies.set(bbccookies.POLICY_EXPIRY_COOKIENAME+"="+q.getTime()+";domain=bbc.com;path=/;expires="+o.toUTCString()+";");return s}function l(o){if(o===null){return null}var p=o.split("");return{ads:!!+p[0],personalisation:!!+p[1],performance:!!+p[2],necessary:true}}function c(){var o=new RegExp("(?:^|; ?)"+e+"=(\\d\\d\\d)($|;)"),p=document.cookie.match(o);if(!p){return null}return p[1]}function b(o){var p=l(c());if(!p){p=k}if(o){return p[o]}else{return p}}function g(o){return document.cookie=o+"=;expires="+m+";"}function n(){var o='<script type="text/javascript" src="http://static.bbci.co.uk/frameworks/bbccookies/0.6.15/script/bbccookies.js"><\/script>';if(window.bbccookies_flag==="ON"&&!bbccookies._acceptsAll()&&!window.bbccookies_disable){document.write(o)}}n()})(); /*]]>*/</script>      <script type="text/javascript"> if (! window.gloader) { window.gloader = [ "glow", {map: "http://node1.bbcimg.co.uk/glow/glow/map.1.7.7.js"}]; } </script>  <script type="text/javascript" src="http://node1.bbcimg.co.uk/glow/gloader.0.1.6.js"></script>    <!--orb.ws.require.lib--> <script type="text/javascript">/*<![CDATA[*/ if (typeof window.define !== 'function' || typeof window.require !== 'function') { document.write('<script class="js-require-lib" src="http://static.bbci.co.uk/frameworks/requirejs/lib.js"><'+'/script>'); } /*]]>*/</script> <script type="text/javascript">  bbcRequireMap = {"jquery-1":"http://static.bbci.co.uk/frameworks/jquery/0.4.1/sharedmodules/jquery-1.7.2", "jquery-1.4":"http://static.bbci.co.uk/frameworks/jquery/0.4.1/sharedmodules/jquery-1.4", "jquery-1.9":"http://static.bbci.co.uk/frameworks/jquery/0.4.1/sharedmodules/jquery-1.9.1", "jquery-1.12":"http://static.bbci.co.uk/frameworks/jquery/0.4.1/sharedmodules/jquery-1.12.0.min", "jquery-2.2":"http://static.bbci.co.uk/frameworks/jquery/0.4.1/sharedmodules/jquery-2.2.0.min", "istats-1":"//nav.files.bbci.co.uk/nav-analytics/0.1.0-43/js/istats-1", "swfobject-2":"http://static.bbci.co.uk/frameworks/swfobject/0.1.10/sharedmodules/swfobject-2", "demi-1":"http://static.bbci.co.uk/frameworks/demi/0.10.0/sharedmodules/demi-1", "gelui-1":"http://static.bbci.co.uk/frameworks/gelui/0.9.13/sharedmodules/gelui-1", "cssp!gelui-1/overlay":"http://static.bbci.co.uk/frameworks/gelui/0.9.13/sharedmodules/gelui-1/overlay.css", "relay-1":"http://static.bbci.co.uk/frameworks/relay/0.2.6/sharedmodules/relay-1", "clock-1":"http://static.bbci.co.uk/frameworks/clock/0.1.9/sharedmodules/clock-1", "canvas-clock-1":"http://static.bbci.co.uk/frameworks/clock/0.1.9/sharedmodules/canvas-clock-1", "cssp!clock-1":"http://static.bbci.co.uk/frameworks/clock/0.1.9/sharedmodules/clock-1.css", "jssignals-1":"http://static.bbci.co.uk/frameworks/jssignals/0.3.6/modules/jssignals-1", "jcarousel-1":"http://static.bbci.co.uk/frameworks/jcarousel/0.1.10/modules/jcarousel-1", "bump-3":"//emp.bbci.co.uk/emp/bump-3/bump-3"}; require({ baseUrl: 'http://static.bbci.co.uk/', paths: bbcRequireMap, waitSeconds: 30 }); </script>  <!-- ISTATS -->
+
+
+
+    
+
+
+
+
+
+
+<!-- Nav Analytics : 50 -->
+<script type="text/javascript">window.bbcFlagpoles_istats="ON",require.config({paths:{"istats-1":"//nav.files.bbci.co.uk/nav-analytics/0.1.0-50/js/istats-1"}}),require.defined("orb/cookies")||(window.bbccookies?define("orb/cookies",function(){return window.bbccookies}):define("orb/cookies",function(){return{isAllowed:function(e){return!1}}})),require(["istats-1","orb/cookies"],function(e,o){if(o.isAllowed("s1")){var n="//sa.bbc.co.uk/bbc/bbc/s";e.addCollector({name:"default",url:n,separator:"&"});var i="SET-COUNTER";i&&"unknown"!==i&&e.setCountername(i),window.istats_countername&&e.setCountername(window.istats_countername),e.addLabels("ml_name=webmodule&ml_version=50")}});</script>
+
+<script type="text/javascript">/*<![CDATA[*/
+    window.bbcFlagpoles_istats = 'ON';
+    window.orb = window.orb || {};
+
+    if (typeof bbccookies !== 'undefined' && bbccookies.isAllowed('s1')) {
+        var istatsTrackingUrl = '//sa.bbc.co.uk/bbc/bbc/s?name=food.story.22312547.page&cps_asset_id=22312547&page_type=story&section=home&app_version=6.2.136-RC4&first_pub=2013-05-08T02:05:37+00:00&last_editorial_update=2013-05-08T02:05:37+00:00&title=Eat+to+win&comments_box=false&cps_media_type=&cps_media_state=&by_nation=&app_type=web&language=en-GB';
+        require(['istats-1'], function (istats) {
+            var counterName = (window.istats_countername) ? window.istats_countername : istatsTrackingUrl.match(/[\?&]name=([^&]*)/i)[1];
+            istats.setCountername(counterName);
+
+            istats.addLabels('app_type=web&language=en-GB');
+            var c = (document.cookie.match(/\bckns_policy=(\d\d\d)/) || []).pop() || '';
+            istats.addLabels({
+                                        'blq_s': '3.5d',
+                    'blq_r': '3.5',
+                    'blq_v': 'journalism-domestic',
+                    'blq_e': 'webservice-HTML',
+                                        'bbc_mc': (c ? 'ad' + c.charAt(0) + 'ps' + c.charAt(1) + 'pf' + c.charAt(2) : 'not_set')
+                }
+            );
+        });
+    }
+    /*]]>*/</script>
+    <script type="text/javascript" src="http://static.bbci.co.uk/frameworks/barlesque/3.8.0/desktop/3.5/script/barlesque.js"></script>
+  
+<!--[if IE 6]>
+        <script type="text/javascript">
+        try {
+            document.execCommand("BackgroundImageCache",false,true);
+        } catch(e) {}
+    </script>
+        <style type="text/css">
+        /* Use filters for IE6 */
+        #blq-blocks a {
+            background-image: none;
+            filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://static.bbci.co.uk/frameworks/barlesque/3.8.0/desktop/3.5//img/blq-blocks_white_alpha.png', sizingMethod='image');
+        }
+        .blq-masthead-focus #blq-blocks a,
+        .blq-mast-text-dark #blq-blocks a {
+            background-image: none;
+            filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://static.bbci.co.uk/frameworks/barlesque/3.8.0/desktop/3.5//img/blq-blocks_grey_alpha.png', sizingMethod='image');
+        }
+        #blq-nav-search button span {
+            background-image: none;
+            filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://static.bbci.co.uk/frameworks/barlesque/3.8.0/desktop/3.5//img/blq-search_grey_alpha.png', sizingMethod='image');
+        }
+        #blq-nav-search button img {
+            position: absolute;
+            left: -999em;    
+        }
+    </style>
+<![endif]-->
+
+<!--[if (IE 7])|(IE 8)>
+    <style type="text/css">
+        .blq-clearfix {
+            display: inline-block;
+        }
+    </style>
+<![endif]-->
+
+<script type="text/javascript">
+     blq.setEnvironment('live');  if (blq.setLabel) blq.setLabel('searchSuggestion', "Search");  if (! /bbc\.co\.uk$/i.test(window.location.hostname) ) { document.documentElement.className += ' blq-not-bbc-co-uk'; } </script>
+
+  <script type="text/javascript"> /*<![CDATA[*/ function oqsSurveyManager(w, flag) { if (flag !== 'OFF') { w.document.write('<script type="text/javascript" src="http://static.bbci.co.uk/frameworks/barlesque/3.8.0/desktop/3.5/script/vendor/edr.min.js"><'+'/script>'); } } oqsSurveyManager(window, 'ON'); /*]]>*/ </script> 
+	<link type="text/css" rel="stylesheet" media="screen" href="http://static.bbci.co.uk/modules/identity/statusbar/3.27.2/style/id-gvl-3-5.css" /> <!--[if IE]> <style type="text/css" media="screen"> body .panel-identity .hd h2{ background-image: url(http://static.bbci.co.uk/modules/identity/statusbar/3.27.2/img/panel/logo-bbcid.gif); /* Even 8bit alpha transparent PNGs are no good here */ } .panel-id-hint .panel-bd, .panel-id-hint .panel-hd, .panel-id-hint .panel-ft{ background-image: url(http://static.bbci.co.uk/modules/identity/statusbar/3.27.2/img/panel/bg-hint.gif); } </style> <![endif]--> <!--[if lte IE 6]> <style type="text/css" media="screen"> /* Secure Glow fixes */ div.panel-identity .infoPanel-pointerT { filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.bbc.co.uk/glow/1.0.2/widgets/images/darkpanel/at.png', sizingMethod='crop'); } div.panel-identity .infoPanel-pointerR { filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.bbc.co.uk/glow/1.0.2/widgets/images/darkpanel/ar.png', sizingMethod='crop'); } div.panel-identity .infoPanel-pointerB { filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.bbc.co.uk/glow/1.0.2/widgets/images/darkpanel/ab.png', sizingMethod='crop'); } div.panel-identity .infoPanel-pointerL { filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.bbc.co.uk/glow/1.0.2/widgets/images/darkpanel/al.png', sizingMethod='crop'); } /* min-height fixes */ body .panel-identity .hd h2{ height: 26px; } #blq-main a.id-cta-button{ height: 22px; } #blq-main a.id-cta-button span{ height: 12px; } /* other */ div.panel-identity .c{ zoom: 1; } /* Transparent PNG replacements */ .blq-toolbar-transp #id-status .idUsername{ background-image: url(http://static.bbci.co.uk/modules/identity/statusbar/3.27.2/img/palettes/transp/status-id-logo-noprofile.gif); } .blq-toolbar-transp #id-status .idSignin, .blq-toolbar-transp #id-status .idUsernameWithProfile{ background-image: url(http://static.bbci.co.uk/modules/identity/statusbar/3.27.2/img/palettes/dark/status-id-logo.gif); } </style> <![endif]--> <!--[if lte IE 7]> <style type="text/css" media="screen"> .panel-identity form .text, .panel-identity form .password { zoom: 1; } .panel-identity form .text p { margin: 0; } .panel-identity form .password p { margin: 0 0 18px 0; } .panel-identity p.id-registerlink a.id-register { zoom: 1; padding-top: 3px; padding-bottom: 3px; top: 3px; } </style> <![endif]--> <!--[if lte IE 8]> <style type="text/css" media="screen"> /* Custom PNG corners for lightbox */ div.panel-identity .pc .tr { filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://static.bbci.co.uk/modules/identity/statusbar/3.27.2/img/panel/ctr.png', sizingMethod='crop'); } div.panel-identity .pc .tl { filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://static.bbci.co.uk/modules/identity/statusbar/3.27.2/img/panel/ctl.png', sizingMethod='crop'); } div.panel-identity .pc .bl { filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://static.bbci.co.uk/modules/identity/statusbar/3.27.2/img/panel/cbl.png', sizingMethod='crop'); } div.panel-identity .pc .br { filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://static.bbci.co.uk/modules/identity/statusbar/3.27.2/img/panel/cbr.png', sizingMethod='crop'); } </style> <![endif]--> <script type="text/javascript"> if(typeof identity == 'undefined'){ identity = {}; } idProperties = { 'env': 'live', 'staticServer': 'http://', 'dynamicServer': 'http://id.bbc.co.uk', 'secureServer': 'https://id.bbc.co.uk', 'assetVersion': '3.27.2', 'assetPath': 'http://static.bbci.co.uk/modules/identity/statusbar/3.27.2/' }; </script> <script type="text/javascript" src="http://static.bbci.co.uk/modules/identity/statusbar/3.27.2/script/id-core.js"></script> <script type="text/javascript" src="http://static.bbci.co.uk/modules/identity/statusbar/3.27.2/script/id.js"></script> 	
+ <script type="text/javascript"> /* <![CDATA[ */ define('id-statusbar-config', { 'translation_signedout': "Sign in", 'translation_signedin': "Your account", 'use_overlay' : false, 'signin_url' : "https://ssl.bbc.co.uk/id/signin?ptrt=http://www.bbc.co.uk/food/0/22312547", 'locale' : "en-GB", 'policyname' : "", 'ptrt' : "http://www.bbc.co.uk/food/0/22312547" }); /* ]]> */ </script>   <script type="text/javascript"> try { require(['istats-1'], function(istats){ if (typeof(document) != 'undefined' && typeof(document.cookie) != 'undefined') { var cookieAphidMatch = document.cookie.match(/ckpf_APHID=([^;]*)/); if (cookieAphidMatch && typeof(cookieAphidMatch[1]) == 'string') { istats.addLabels({'bbc_hid': cookieAphidMatch[1]}); } } })(); } catch (err) { /* If istats can't be loaded, fail silently */ } </script>    <script type="text/javascript"> (function () { if (! window.require) { throw new Error('idcta: could not find require module'); } var map = {}; map['idapp-1'] = 'http://static.bbci.co.uk/idapp/0.71.91/modules/idapp/idapp-1'; map['idcta/idcta-1'] = 'http://static.bbci.co.uk/id/0.34.13/modules/idcta/idcta-1'; map['idcta/idCookie'] = 'http://static.bbci.co.uk/id/0.34.13/modules/idcta/idCookie'; map['idcta/overlayManager'] = 'http://static.bbci.co.uk/id/0.34.13/modules/idcta/overlayManager'; require({paths: map}); define('id-config', {"idapp":{"version":"0.71.91","hostname":"ssl.bbc.co.uk","insecurehostname":"www.bbc.co.uk","tld":"bbc.co.uk"},"idtranslations":{"version":"0.33.27"},"identity":{"baseUrl":"https:\/\/talkback.live.bbc.co.uk\/identity","cookieAgeDays":730,"accessTokenCookieName":"ckns_IDA-ATKN"},"pathway":{"name":null,"staticAssetUrl":"http:\/\/static.bbci.co.uk\/idapp\/0.71.91\/modules\/idapp\/idapp-1\/View.css"},"idpurl":"https:\/\/idp.api.bbc.co.uk\/idp\/oauth2\/authorize?client_id=bbc-co-uk&response_type=code&scope=openid+play.bbcstore.r+plays.any.w+plays.any.r+follows.any.w+follows.any.r+favourites.any.w+favourites.any.r+idm.basic.r+feedback.any.r+feedback.any.w+loves.any.r+loves.any.w&module=bbc-co-uk&state=ptrt%3Dhttp%3A%2F%2Fwww.bbc.co.uk%2Fid%2Fblank%3Fsuccess%3D1%26locale%3Den-GB&redirect_uri=https%3A%2F%2Fssl.bbc.co.uk%2Fid%2Foauth2%2Fconsume%2Fidp.bbc.co.uk"}); })(); </script> <script type="text/javascript"> require(['idcta/idCookie'], function(idCookie){ if (typeof(document) != 'undefined' && typeof(document.cookie) != 'undefined') { var idCookieInstance = idCookie.getInstance(); /* Timestamp in milliseconds for the 6am on 27th of October 2015 */ var timestamp27thOct = 1445925600000; /* Only select users who signed in before the dooms day and were not downgraded yet */ if (idCookieInstance.hasCookie() && idCookieInstance.timestamp != '' && parseInt(idCookieInstance.timestamp) > 0 && parseInt(idCookieInstance.timestamp) < timestamp27thOct && !idCookieInstance.isDowngraded()) { /* iPlayer uplift is session cookie, so downgrade based on this cookie missed 20% users. To cover all the users with our fix, ut is nor uncoditional: all users that have not been downgraded before will now be downgraded */ idCookieInstance.downgrade(); } } }); </script>                          
+	
+
+
+
+        
+		<!-- shared/head -->
+<meta http-equiv="imagetoolbar" content="no" />
+<!--[if !(lt IE 6)]>
+   	<link rel="stylesheet" type="text/css" href="http://news.bbcimg.co.uk/view/3_0_21/cream/hi/shared/type.css" />
+
+
+		<link rel="stylesheet" type="text/css" media="screen" href="http://news.bbcimg.co.uk/view/3_0_21/cream/hi/shared/global.css" />
+
+
+	<link rel="stylesheet" type="text/css" media="print" href="http://news.bbcimg.co.uk/view/3_0_21/cream/hi/shared/print.css" />
+
+	<link rel="stylesheet" type="text/css" media="screen and (max-device-width: 976px)" href="http://news.bbcimg.co.uk/view/3_0_21/cream/hi/shared/mobile.css" />
+	
+
+
+
+<link rel="stylesheet" type="text/css" href="http://news.bbcimg.co.uk/view/3_0_21/cream/hi/shared/components/components.css" />
+
+<![endif]-->
+<!--[if !IE]>-->
+   	<link rel="stylesheet" type="text/css" href="http://news.bbcimg.co.uk/view/3_0_21/cream/hi/shared/type.css" />
+
+
+		<link rel="stylesheet" type="text/css" media="screen" href="http://news.bbcimg.co.uk/view/3_0_21/cream/hi/shared/global.css" />
+
+
+	<link rel="stylesheet" type="text/css" media="print" href="http://news.bbcimg.co.uk/view/3_0_21/cream/hi/shared/print.css" />
+
+	<link rel="stylesheet" type="text/css" media="screen and (max-device-width: 976px)" href="http://news.bbcimg.co.uk/view/3_0_21/cream/hi/shared/mobile.css" />
+	
+
+
+
+<link rel="stylesheet" type="text/css" href="http://news.bbcimg.co.uk/view/3_0_21/cream/hi/shared/components/components.css" />
+
+<!--<![endif]-->
+<script type="text/javascript">
+/*<![CDATA[*/
+gloader.load(["glow","1","glow.dom"],{onLoad:function(glow){glow.dom.get("html").addClass("blq-js")}});
+gloader.load(["glow","1","glow.dom"],{onLoad:function(glow){glow.ready(function(){if (glow.env.gecko){var gv = glow.env.version.split(".");for (var i=gv.length;i<4;i++){gv[i]=0;}if((gv[0]==1 && gv[1]==9 && gv[2]==0)||(gv[0]==1 && gv[1]<9)||(gv[0]<1)){glow.dom.get("body").addClass("firefox-older-than-3-5");}}});}});
+
+window.disableFacebookSDK=true;
+if (window.location.pathname.indexOf('+')>=0){window.disableFacebookSDK=true;}
+
+/*]]>*/
+</script>
+<script type="text/javascript" src="http://news.bbcimg.co.uk/js/locationservices/locator/v4_0/locator.js"></script>
+
+<script type="text/javascript" src="http://news.bbcimg.co.uk/js/core/3_3_1/bbc_fmtj.js"></script>
+
+<script type="text/javascript">
+<!--
+	bbc.fmtj.page = {
+		serverTime: 1463491958000,
+		editionToServe: 'domestic',
+		queryString: null,
+		section: 'home',
+		sectionPath: '/Home',
+		siteName: 'BBC Food',
+		siteToServe: 'knowledge_learning',
+		siteVersion: 'cream',
+		storyId: '22312547',
+		assetType: 'story',
+		uri: '/food/0/22312547',
+		country: 'gb',
+		masthead: false,
+		adKeyword: null,
+		templateVersion: 'v1_0',
+		counterName: 'food.story.22312547.page'
+	}
+-->
+</script>
+<script type="text/javascript" src="http://news.bbcimg.co.uk/js/common/3_2_1/bbc_fmtj_common.js"></script>
+
+
+<script type="text/javascript">$useMap({map:"http://news.bbcimg.co.uk/js/map/map_0_0_35.js"});</script>
+<script type="text/javascript">$loadView("0.0",["bbc.fmtj.view"]);</script>
+<script type="text/javascript">$render("livestats-heatmap");</script>
+
+
+<script type="text/javascript" src="http://news.bbcimg.co.uk/js/config/apps/4_7_2/bbc_fmtj_config.js"></script>
+
+
+<!-- add Bump3 to the require map -->
+
+<script type="text/javascript">
+    if (typeof bbcRequireMap !== 'undefined' && bbcRequireMap["jquery-1.9"] === undefined && bbcRequireMap["jquery-1"]) {
+        var jquery19Path = bbcRequireMap["jquery-1"].replace(/0.(1|2).(1|4)/, '0.3.0').replace(/jquery-1.(5|7).(1|2)/, 'jquery-1.9.1');
+        require({
+            paths : {
+                "jquery-1.9": jquery19Path
+            }
+        });
+    }
+    if (typeof bbcRequireMap !== 'undefined' && bbcRequireMap["swfobject-2"]) {
+        require({
+            paths : {
+                "swfobject-2": bbcRequireMap["swfobject-2"].replace('0.1.3', '0.1.10')
+            }
+        });
+    }
+</script>
+
+<script type="text/javascript">
+    require({
+        paths : {
+            "bump-3": "http://emp.bbci.co.uk/emp/bump-3/bump-3"
+        }
+    });
+</script>
+
+
+
+<!-- load glow and required modules -->
+<script type="text/javascript">
+//<![CDATA[
+gloader.load(['glow', '1', 'glow.dom']);
+//]]>
+</script>
+
+
+<!-- pull in our emp code -->
+<script type="text/javascript" src="http://news.bbcimg.co.uk/js/app/av/emp/2_1_8/emp.js"></script>
+<!-- pull in compatibility.js -->
+<script type="text/javascript" src="http://news.bbcimg.co.uk/js/app/av/emp/2_1_8/compatibility.js"></script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+
+
+
+    
+
+
+
+    
+
+
+// set site specific config
+
+bbc.fmtj.av.emp.configs.push('knowledge_learning');
+
+
+require(['jquery-1'], function ($) {
+    $(document).ready(function () {
+        bbc.fmtj.av.emp.loadAll();
+    });
+});
+//]]>
+
+</script>
+<!-- Check for advertising testing -->
+
+<meta name="viewport" content="width = 996" />
+
+
+
+        <!-- shared/head_story -->
+<!-- THESE STYLESHEETS VARY ACCORDING TO PAGE CONTENT -->															  
+
+<link rel="stylesheet" type="text/css" media="screen" href="http://news.bbcimg.co.uk/view/3_0_21/cream/hi/shared/layout/story.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="http://news.bbcimg.co.uk/view/3_0_21/cream/hi/shared/story.css" />
+
+
+<!-- js story view -->
+<script type="text/javascript">$loadView("0.0",["bbc.fmtj.view.news.story"]);</script>
+
+<!-- EMP -->
+<script type="text/javascript" src="http://news.bbc.co.uk/js/app/av/emp/compatibility.js"></script>
+<!-- /EMP -->
+
+        
+        <!-- #CREAM hi knowledge_learning domestic head.inc include -->  
+                            <!-- is suitable for ads adding isadvertise ... -->
+			
+
+			 
+
+			
+	<!-- features_enabled.inc -->
+
+	
+	
+<script type="text/javascript">/*<![CDATA[*/if(bbcdotcom===undefined){var bbcdotcom={init:function(a){},objects:function(a){return false},domLoaded:false,data:{ads:0,stats:0,statsProvider:null},adverts:{slot:function(b,a){},layout:{reset:function(){}}},config:{isActive:function(a){return false}},addLoadEvent:function(a){var b=window.onload;if(typeof window.onload!=="function"){window.onload=a}else{window.onload=function(){if(b){b()}a()}}}}}bbcdotcom.objects=function(e,f,g){var d,a,c=arguments,b=e.split(".");if(f===undefined){f="valid"}if(g===undefined){g=window}for(d=0,a=b.length;d<a;d++){if(g[b[d]]===undefined){if(f==="create"){g[b[d]]={}}else{return false}}else{if(typeof g[b[d]]==="function"){if(typeof c[1]!=="undefined"&&c[1]!==null&&g[b[d]](c[1])!==undefined){return g[b[d]](c[1])}else{if(g[b[d]]()!==undefined){return g[b[d]]()}}}}g=g[b[d]]}return g};bbcdotcom.objects("bbcdotcom.stats","create");if(BBC===undefined){var BBC={}}if(BBC.adverts===undefined){BBC.adverts={setZone:function(){},configure:function(){},write:function(){},show:function(){},isActive:function(){return false},setScriptRoot:function(){},setImgRoot:function(){},getAdvertTag:function(){},getSectionPath:function(){}}};/*]]>*/</script>
+<meta name="application-name" content="BBC"/>
+<meta name="msapplication-tooltip" content="Explore the BBC, for latest news, sport and weather, TV &amp; radio schedules and highlights, with nature, food, comedy, children's programmes and much more"/>
+
+	<meta name="msapplication-starturl" content="http://www.bbc.com/?ocid=global-knowledge_learning-pinned-ie9"/>
+
+<meta name="msapplication-window" content="width=1024;height=768"/>
+<meta name="msapplication-task" content="name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico" />
+<meta name="msapplication-task" content="name=BBC News;action-uri=http://www.bbc.com/news/?ocid=global-news-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico" />
+<meta name="msapplication-task" content="name=BBC Sport;action-uri=http://www.bbc.com/sport/0/?ocid=global-sport-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico" />
+<meta name="msapplication-task" content="name=BBC Future;action-uri=http://www.bbc.com/future?ocid=global-future-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico" />
+<meta name="msapplication-task" content="name=BBC Travel;action-uri=http://www.bbc.com/travel?ocid=global-travel-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico" />
+<meta name="msapplication-task" content="name=BBC Weather;action-uri=http://www.bbc.co.uk/weather/?ocid=global-weather-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico" />
+
+
+<!-- BBCCOM client-side -->
+
+
+<style type="text/css">.bbccom_display_none{display:none;}</style>
+
+
+<script type="text/javascript">/*<![CDATA[*/
+    if (typeof orb !== 'undefined' && typeof orb.fig === 'function') {
+        bbcdotcom.data = {
+            a: orb.fig('ad')? 1 : 0,
+            b: (0 == orb.fig('uk')) ? 1 : 0,
+            c: orb.fig('ap')
+        };
+    } else {
+        document.write(unescape('%3Cscript type="text/javascript" src="http://tps.bbc.com/wwscripts/data"%3E%3C/script%3E'));
+    }
+/*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/
+    if (typeof bbcdotcom.data == 'undefined' || typeof bbcdotcom.data.a == 'undefined' || typeof bbcdotcom.data.b == 'undefined' || typeof bbcdotcom.data.c == 'undefined') {
+        bbcdotcom.data = {a:0,b:0,c:0};
+    }
+    if (bbcdotcom.data.a == 1) {
+        document.write(unescape('%3Clink href="http://news.bbcimg.co.uk/css/screen/shared/1.14.0/3pt_ads.css" rel="stylesheet" type="text/css" /%3E'));
+        
+            document.write(unescape('%3Cscript type="text/javascript" src="http://www.bbc.co.uk/wwscripts/flag"%3E%3C/script%3E'));
+        
+    }
+/*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/
+    if (typeof bbcdotcom.flag == 'undefined' || bbcdotcom.flag.a != 1) {
+        bbcdotcom.data.a = 0;
+    }
+/*]]>*/</script>
+
+
+
+
+
+<!-- BEGIN Krux Control Tag for "BBC.com News" -->
+<script class="kxct" data-id="JZTWpGsM" data-timing="async" data-version="1.9" type="text/javascript">
+    /*<![CDATA[*/
+    if (bbcdotcom.data.a == 1 || bbcdotcom.data.b == 1) {
+        window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+        (function(){
+            var k=document.createElement('script');k.type='text/javascript';k.async=true;
+            var m,src=(m=location.href.match(/\bkxsrc=([^&]+)/))&&decodeURIComponent(m[1]);
+            k.src = /^https?:\/\/([a-z0-9_\-\.]+\.)?krxd\.net(:\d{1,5})?\//i.test(src) ? src : src === "disable" ? "" :
+                (location.protocol==="https:"?"https:":"http:")+"//cdn.krxd.net/controltag?confid=JZTWpGsM"
+            ;
+            var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+        }());
+    }
+    /*]]>*/
+</script>
+<!-- END Krux Controltag -->
+<script type="text/javascript">
+    /*<![CDATA[*/
+    if (bbcdotcom.data.a == 1 || bbcdotcom.data.b == 1) {
+        window.Krux||((Krux=function(){Krux.q.push(arguments);}).q=[]);
+        (function(){
+            function  retrieve(n){
+                var  m,  k='kx'+n;
+                if  (window.localStorage)  {
+                    return  window.localStorage[k]  ||  "";
+                }  else  if  (navigator.cookieEnabled)  {
+                    m  =  document.cookie.match(k+'=([^;]*)');
+                    return  (m  &&  unescape(m[1]))  ||  "";
+                }  else  {
+                    return  '';
+                }
+            }
+            Krux.user  =  retrieve('user');
+            Krux.segments  =  retrieve('segs')  ?  retrieve('segs').split(',')  :  [];
+            //  DFP  Premium
+            var  dfpp  =  [];
+            if  (Krux.user)  {
+                dfpp.push('khost='  +  encodeURIComponent(location.hostname));
+                dfpp.push('kuid='  +  Krux.user);
+            }
+            for  (var  i  =  0;  i  <  Krux.segments.length;  i++  )  {
+                dfpp.push('ksg='  +  Krux.segments[i]);
+            }
+            Krux.dfppKeyValues  =  dfpp.length  ?  dfpp.join(';')  +  ';'  :  '';
+        })();
+    }
+    /*]]>*/
+</script>
+
+<script type="text/javascript">/*<![CDATA[*/
+    if (bbcdotcom.data.a == 1 || bbcdotcom.data.b == 1) {
+        document.write(unescape('%3Cscript type="text/javascript" src="//www.googletagservices.com/tag/js/gpt.js"%3E%3C/script%3E'));
+        
+            document.write(unescape('%3Cscript type="text/javascript" src="http://news.bbcimg.co.uk/js/app/bbccom/1.14.0/bbccom_all.js"%3E%3C/script%3E'));
+        
+    }
+/*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/
+    if (bbcdotcom.data.a == 1 || bbcdotcom.data.b == 1) {
+        BBC.adverts.setData(bbcdotcom.data);
+        bbcdotcom.config.setAdsEnabled(bbcdotcom.data.a);
+        bbcdotcom.config.setAnalyticsEnabled(bbcdotcom.data.b);
+        bbcdotcom.dataOrb = {
+            ads: bbcdotcom.data.a,
+            stats: bbcdotcom.data.b,
+            statsProvider: bbcdotcom.data.c
+        };
+
+        bbcdotcom.config.setData(bbcdotcom.dataOrb);
+        if (/[?|&]GNL_SWITCH=desktopasync/.test(window.location.href)) {
+            bbcdotcom.init({adsToDisplay: ["leaderboard", "sponsor", "mpu"], asyncEnabled: true});
+        } else {
+            bbcdotcom.init({adsToDisplay: ["leaderboard", "sponsor", "mpu"]});
+        }
+
+        if(typeof bbcdotcom !== 'undefined' && typeof bbcdotcom.survey !== 'undefined' && typeof bbcdotcom.survey.init === 'function') {
+            bbcdotcom.survey.init();
+        }
+    }
+    /*
+     * Native remove content for UK visitors
+     */
+    (function() {
+        if (bbcdotcom.data.b == 0) {
+            var adKeyword = bbcdotcom.objects('bbc.fmtj.page.adKeyword');
+            if(adKeyword && adKeyword !== null && typeof adKeyword === 'string' && adKeyword.indexOf('native-') !== -1) {
+                document.write('<style >' +
+                                    '#storypage-container .story-body {display:none;}' +
+                                    '#native-uk-disclaimer {border: 2px solid;margin: 8px;padding: 16px;}' +
+                                '</style>');
+                require(['jquery-1'], function($) {
+                    $(function(){
+                        /* Native advertising disclaimer */
+                        $( ".story-body" ).html('<div id="native-uk-disclaimer">' +
+                            '<h1>BBC Sport (International version)</h1>' +
+                            'We\'re sorry but this article is not accessible from the UK as it is part of our ' +
+                            'international service and is not funded by the license fee.' +
+                            '</div>');
+                        $( ".story-body" ).show();
+                    });
+                });
+            }
+        }
+    }());
+    bbcdotcom.objects('page', 'create', bbcdotcom);
+    bbcdotcom.page.edition = '(none)';
+    bbcdotcom.page.url = '/food/0/22312547';
+    bbcdotcom.page.zoneFile = '3pt_zone_file';
+    bbcdotcom.page.http_host = 'www.bbc.co.uk';
+    
+    
+/*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/if(bbcdotcom.data.a == 1){(function(){switch(bbcdotcom.page.url){case"/":case"/default.stm":bbcdotcom.page.url=(bbcdotcom.page.edition==="domestic")?"/1/hi/default.stm":"/2/hi/default.stm";break;case"/sport":case"/sport/":case"/sport/default.stm":bbcdotcom.page.url=(bbcdotcom.page.edition==="domestic")?"/sport1/hi/default.stm":"/sport2/hi/default.stm";break}BBC.adverts.setScriptRoot("http://news.bbcimg.co.uk/js/app/bbccom/1.14.0/");bbcdotcom.config.setJsPrefix("http://news.bbcimg.co.uk/js/app/bbccom/1.14.0");bbcdotcom.config.setAssetPrefix("http://news.bbcimg.co.uk/shared/bbccom/1.14.0/");bbcdotcom.config.setVersion("1.14.0");bbcdotcom.config.setSwfPrefix("http://news.bbcimg.co.uk/shared/swf/bbccom/1.14.0");bbcdotcom.config.setCssPrefix("http://news.bbcimg.co.uk/css/screen/shared/1.14.0");BBC.adverts.setImgRoot("http://news.bbcimg.co.uk/shared/img/bbccom/");BBC.adverts.init({domain:bbcdotcom.page.http_host,location:bbcdotcom.page.url,zoneVersion:bbcdotcom.page.zoneFile,zoneReferrer:document.referrer})}());(function(){if(typeof require!=="undefined"){require({paths:{bbcdotcom:"http://news.bbcimg.co.uk/js/app/bbccom/1.14.0"}})}})();if(BBC.adverts.getV6Gvl3()&&"undefined"!==typeof bbcdotcom.page.bddUseLatestFromTest){document.write(unescape('%3Cscript type="text/javascript" src="http://wwwpreview.test.newsonline.tc.nca.bbc.co.uk/js/app/bbccom/'+bbcdotcom.latest_version+'/advert.js"'))}else{if(BBC.adverts.getV6Gvl3()){document.write(unescape('%3Cscript type="text/javascript" src="http://news.bbcimg.co.uk/js/app/bbccom/1.14.0/advert.js"%3E%3C/script%3E'))}}if(/[?|&]metadata=yes(&|$)/.test(window.location.search)){document.write("http://www.test.bbc.com/wwscripts/metadata?bbcdotcom_asset="+window.location.hostname+window.location.pathname)};}/*]]>*/</script>
+<script type="text/javascript">
+    /*<![CDATA[*/
+    if (BBC.adverts.isActive('ads')) {
+        document.write(unescape('%3Cscript id="gnlAdsEnabled" class="bbccom_display_none"%3E%3C/script%3E'));
+    }
+    if (BBC.adverts.isActive('analytics')) {
+        document.write(unescape('%3Cscript id="gnlAnalyticsEnabled" class="bbccom_display_none"%3E%3C/script%3E'));
+    }
+    /*]]>*/
+</script>
+<script type="text/javascript">
+    require({
+        paths:{
+            "bbcdotcom": "http://news.bbcimg.co.uk/js/app/bbccom/1.14.0"
+        }
+    });
+</script>
+
+<script type="text/javascript">
+    /*<![CDATA[*/
+    document.write(unescape('%3Cscript id="continuous-play-enabled" class="bbccom_display_none"%3E%3C/script%3E'));
+    /*]]>*/
+</script>
+
+
+
+
+    
+        
+
+<script type="text/javascript">
+	if(typeof BBC.adverts != 'undefined' && typeof BBC.adverts.setPageVersion != 'undefined'){
+		BBC.adverts.setPageVersion('(none)');
+	}
+</script>
+
+
+    
+
+        		<!-- include knowledge-learning-status.inc -->
+
+
+
+
+
+	
+	
+    	
+    
+	
+	
+    	
+   
+
+ 
+
+<!-- hi/knowledge_learning/head_last.inc -->
+
+<link rel="stylesheet" type="text/css" href="http://static.bbci.co.uk/thingstodo/v3/styles/ttd-widget-index.css" />
+<!--[if IE 6]> <link rel="stylesheet" type="text/css" href="http://static.bbci.co.uk/thingstodo/v3/styles/ttd-widget-ie6.css" /> <![endif]-->
+
+
+	<link rel="stylesheet" type="text/css" media="screen" href="http://news.bbcimg.co.uk/view/1_5_8/cream/hi/knowledge_learning/skin.css" />
+	<link rel="stylesheet" type="text/css" media="print" href="http://news.bbcimg.co.uk/view/1_5_8/cream/hi/knowledge_learning/printable.css" />	
+
+
+	
+
+
+	
+		<script type="text/javascript">
+            if(bbcdotcom.objects('BBC.adverts.getAdvertTag')) {
+                gloader.load(["glow","1","glow.dom"],{onLoad: function(glow){
+                    glow.ready(function(){
+                        if(bbcdotcom.objects('BBC.adverts.getAdvertTag')) {
+                            var adImageUrl = BBC.adverts.getAdvertTag('printableversionsponsorship','','standardUri');
+                            if(adImageUrl) {
+                                if (glow.env.ie ) {
+                                    window.onbeforeprint = function(){
+                                        var printAdvert = glow.dom.get("#print-advert");
+                                        if (printAdvert.get("img").length == 0)
+                                        {
+                                            printAdvert.append('<img src="'+adImageUrl+'" alt="" />');
+                                        }
+                                    };
+                                }else{
+                                    glow.dom.get("head").append('<style type="text/css">#print-advert {display:none};</style><style type="text/css" media="print">#print-advert::after{content:url('+adImageUrl+');} #print-advert{display:block;overflow:hidden;}</style>');
+                                }
+                            }
+                        }
+                    });
+                }});
+            }
+		</script>
+	
+
+
+<link rel="apple-touch-icon" href="http://news.bbcimg.co.uk/img/1_1_8/cream/hi/knowledge_learning/iphone.png"/> 
+<script type="text/javascript">
+blq.externalGoTrackingConfig = {
+	".story-body a":"{path}/ext/story-body/{dir}",
+	".story-related .related-links a":"{path}/ext/related-links/{dir}",
+	".story-related .newstracker-list a":"{path}/ext/newstracker/{dir}"
+}
+</script>
+<style type="text/css">
+.ie .blq-mast-bg-transparent-light #blq-blocks, .ie .blq-mast-bg-transparent-light #blq-nav-main, .ie .blq-mast-bg-transparent-light #blq-nav-main li, .ie .blq-mast-bg-transparent-light #id-status,
+.ie .blq-mast-bg-transparent #blq-mast,.ie .blq-mast-bg-transparent-light #blq-mast,
+.ie7 .blq-mast-bg-transparent-light #blq-blocks, .ie7 .blq-mast-bg-transparent-light #blq-nav-main, .ie7 .blq-mast-bg-transparent-light #blq-nav-main li, .ie7 .blq-mast-bg-transparent-light #id-status,
+.ie7 .blq-mast-bg-transparent #blq-mast,.ie7 .blq-mast-bg-transparent-light #blq-mast,
+.ie8 .blq-mast-bg-transparent-light #blq-blocks, .ie8 .blq-mast-bg-transparent-light #blq-nav-main, .ie8 .blq-mast-bg-transparent-light #blq-nav-main li, .ie8 .blq-mast-bg-transparent-light #id-status,
+.ie8 .blq-mast-bg-transparent #blq-mast,.ie8 .blq-mast-bg-transparent-light #blq-mast{
+border-color: #660;
+}
+.ie .blq-masthead-focus #blq-blocks, .ie .blq-masthead-focus #blq-nav-main, .ie .blq-masthead-focus #blq-nav-main li, .ie .blq-masthead-focus #id-status,
+.ie .blq-masthead-focus #blq-mast,.ie .blq-masthead-focus #blq-mast,
+.ie7 .blq-masthead-focus #blq-blocks, .ie7 .blq-masthead-focus #blq-nav-main, .ie7 .blq-masthead-focus #blq-nav-main li, .ie7 .blq-masthead-focus #id-status,
+.ie7 .blq-masthead-focus #blq-mast,.ie7 .blq-masthead-focus #blq-mast,
+.ie8 .blq-masthead-focus #blq-blocks, .ie8 .blq-masthead-focus #blq-nav-main, .ie8 .blq-masthead-focus #blq-nav-main li, .ie8 .blq-masthead-focus #id-status,
+.ie8 .blq-masthead-focus #blq-mast,.ie8 .blq-masthead-focus #blq-mast{
+border-color: #ccc;
+}
+</style>
+
+
+	   <!--Rendered by 5936007 -->
+	   <link rel="schema.dcterms" href="http://purl.org/dc/terms/" />
+	   <meta name="DCTERMS.created" content="2013-05-08T02:05:37+00:00" />
+	   <meta name="DCTERMS.modified" content="2013-05-08T02:05:37+00:00" />
+    </head>
+
+        	    <!--[if lte IE 6]><body class="knowledge_learning ie disable-wide-advert"><![endif]-->
+    <!--[if IE 7]><body class="knowledge_learning ie7 disable-wide-advert"><![endif]-->
+    <!--[if IE 8]><body class="knowledge_learning ie8 disable-wide-advert"><![endif]-->
+    <!--[if !IE]>--><body class="knowledge_learning disable-wide-advert"><!--<![endif]-->
+	<div class="livestats-web-bug"><img alt="" id="livestats" src="http://stats.bbc.co.uk/o.gif?~RS~s~RS~Vision~RS~t~RS~HighWeb_Story~RS~i~RS~22312547~RS~p~RS~101869~RS~a~RS~Domestic~RS~u~RS~/food/0/22312547~RS~r~RS~http://www.bbc.co.uk/food/0/22803933~RS~q~RS~~RS~z~RS~38~RS~"/></div>
+        
+	
+    <!-- BBCDOTCOM body first include -->
+    
+
+
+<div id="bbccom_wallpaper_ad" class="bbccom_display_none"></div>
+<div id="bbccom_wallpaper" class="bbccom_display_none">
+    <script type="text/javascript">/*<![CDATA[*/(function(){var a;if(window.bbcdotcom&&bbcdotcom.config.isActive("ads")){if(bbcdotcom.config.isAsync()){googletag.cmd.push(function(){googletag.display("bbccom_wallpaper")})}else{googletag.display("wallpaper")}a=bbcdotcom.adverts.adRegister.getAd("wallpaper");if(a!==null&&a!==undefined){a.setDomElement("bbccom_wallpaper")}}}());/*]]>*/</script>
+</div>
+
+
+	
+	
+
+    <!-- ISTATS -->
+
+
+
+    
+
+
+
+
+
+
+ <noscript><p style="position: absolute; top: -999em"><img src="//sa.bbc.co.uk/bbc/bbc/s?name=SET-COUNTER&ml_name=webmodule&ml_version=50&blq_js_enabled=0&blq_s=3.5d&blq_r=3.5&blq_v=journalism-domestic&blq_e=webservice-HTML&app_type=web&language=en-GB" height="1" width="1" alt=""></p></noscript>  <!-- Begin iStats 20100118 (UX-CMC 1.1009.3) --> <script type="text/javascript">/*<![CDATA[*/ if (typeof bbccookies !== 'undefined' && bbccookies.isAllowed('s1')) { (function () { require(['istats-1'], function (istats) { istatsTrackingUrl = istats.getDefaultURL(); if (istats.isEnabled() && bbcFlagpoles_istats === 'ON') { sitestat(istatsTrackingUrl); } else { window.ns_pixelUrl = istatsTrackingUrl; /* used by Flash library to track */ } function sitestat(n) { var j = document, f = j.location, b = ""; if (j.cookie.indexOf("st_ux=") != -1) { var k = j.cookie.split(";"); var e = "st_ux", h = document.domain, a = "/"; if (typeof ns_ != "undefined" && typeof ns_.ux != "undefined") { e = ns_.ux.cName || e; h = ns_.ux.cDomain || h; a = ns_.ux.cPath || a } for (var g = 0, f = k.length; g < f; g++) { var m = k[g].indexOf("st_ux="); if (m != -1) { b = "&" + decodeURI(k[g].substring(m + 6)) } } bbccookies.set(e + "=; expires=" + new Date(new Date().getTime() - 60).toGMTString() + "; path=" + a + "; domain=" + h); } window.ns_pixelUrl = n;  } }); })(); } else { window.istats = {enabled: false}; } /*]]>*/</script> <!-- End iStats (UX-CMC) -->  
+ <div id="blq-global"> <noscript> <div id="blq-no-js-banner"> <p>For a better experience on your device, try our <a href="http://m.bbc.co.uk">mobile site</a>.</p> </div> </noscript> <div id="blq-pre-mast" xml:lang="en-GB"> <!-- Pre mast -->  </div> </div>  <script type="text/html" id="blq-bbccookies-tmpl"><![CDATA[ <div id="bbccookies-prompt" class="bbccookies-d"> <h2> Cookies on the BBC website </h2> <p> The BBC has updated its cookie policy. We use cookies to ensure that we give you the best experience on our website. This includes cookies from third party social media websites if you visit a page which contains embedded content from social media. Such third party cookies may track your use of the BBC website.<span class="bbccookies-international-message"> We and our partners also use cookies to ensure we show you advertising that is relevant to you.</span> If you continue without changing your settings, we'll assume that you are happy to receive all cookies on the BBC website. However, you can <a href="/privacy/cookies/managing/cookie-settings.html">change your cookie settings</a> at any time. </p> <ul> <li id="bbccookies-continue"> <button type="button" id="bbccookies-continue-button">Continue</button> </li> <li id="bbccookies-more"><a href="/privacy/cookies/bbc">Find out more</a></li></ul> </div> ]]></script> <script type="text/javascript">/*<![CDATA[*/ (function(){if(bbccookies._showPrompt()){var i=document,b=i.getElementById("blq-pre-mast"),f=i.getElementById("blq-global"),h=i.getElementById("blq-container"),c=i.getElementById("blq-bbccookies-tmpl"),a,g,e;if(b&&i.createElement){a=i.createElement("div");a.id="bbccookies";e=c.innerHTML;e=e.replace("<"+"![CDATA[","").replace("]]"+">","");a.innerHTML=e;if(f){f.insertBefore(a,b)}else{h.insertBefore(a,b)}g=i.getElementById("bbccookies-continue-button");g.onclick=function(){a.parentNode.removeChild(a);return false};bbccookies._setPolicy(bbccookies.readPolicy())}}})(); /*]]>*/</script>  <div id="blq-masthead" class="blq-clearfix blq-mast-bg-transparent-light blq-lang-en-GB blq-ltr"> <span id="blq-mast-background"><span></span></span>  <div id="blq-mast" class="blq-rst">  <div id="blq-mast-bar" class="blq-masthead-container blq-journalism-domestic"> <div id="blq-blocks"> <a href="http://www.bbc.co.uk/" hreflang="en-GB"> <abbr title="British Broadcasting Corporation" class="blq-home"> <img src="http://static.bbci.co.uk/frameworks/barlesque/3.8.0/desktop/3.5/img/blq-blocks_grey_alpha.png" alt="BBC" width="84" height="24" /> </abbr> </a> </div> <div id="blq-acc-links"> <h2 id="page-top">Accessibility links</h2> <ul>  <li><a href="#main-content">Skip to content</a></li>  <li><a href="#blq-local-nav">Skip to local navigation</a></li>  <li><a href="http://www.bbc.co.uk/accessibility/">Accessibility Help</a></li> </ul> </div> <div id="blq-sign-in" class="blq-gel">   <div id="id-status" class="blq-id-v4"> <div class="id-out id-gel"> <h2 class="blq-hide">BBC iD</h2> <a href="https://ssl.bbc.co.uk/id/status?ptrt=http://www.bbc.co.uk/food/0/22312547" id="blq-idstatus-link"> <span class="id-icon"> <span></span> </span> <span id="blq-idstatus-text"> BBC iD </span> <span class="id-spinner"></span> <span class="blq-dropdown-arrow"> <span></span> </span> </a> </div> <div id="id-status-nav" > <div class="id-in blq-rst"> <ul> <li> <a name="idDash" class="blq-nogo has-ptrt idDash" href="https://ssl.bbc.co.uk/id/settings?ptrt=http://www.bbc.co.uk/food/0/22312547"> Settings </a> </li> <li> <a name="idSignout" class="blq-nogo has-ptrt idSignout" href="https://ssl.bbc.co.uk/id/signout?ptrt=http://www.bbc.co.uk/food/0/22312547"> Sign out </a> </li> </ul> </div> </div> </div>               </div> <div id="blq-nav"> <h2>BBC navigation</h2>     <ul id="blq-nav-main">   <li id="blq-nav-news"> <a href="http://www.bbc.co.uk/news/">News</a> </li>    <li id="blq-nav-sport"> <a href="http://www.bbc.co.uk/sport">Sport</a> </li>    <li id="blq-nav-weather"> <a href="http://www.bbc.co.uk/weather/">Weather</a> </li>    <li id="blq-nav-iplayer"> <a href="http://www.bbc.co.uk/iplayer/">iPlayer</a> </li>    <li id="blq-nav-tv"> <a href="http://www.bbc.co.uk/tv/">TV</a> </li>    <li id="blq-nav-radio"> <a href="http://www.bbc.co.uk/radio/">Radio</a> </li>    <li id="blq-nav-more"> <a href="http://www.bbc.co.uk#blq-footlinks">More&hellip;</a> </li>   </ul>   <div id="blq-nav-search"> <form method="get" action="http://search.bbc.co.uk/search" accept-charset="utf-8" id="blq-search-form"> <div>  <input type="hidden" name="go" value="toolbar" />  <input type="hidden" value="http://www.bbc.co.uk/food/0/22312547" name="uri" />    <label for="blq-search-q" class="blq-hide">Search term:</label> <input id="blq-search-q" type="text" name="q" value="" maxlength="128" /> <button id="blq-search-btn" type="submit"><span><img src="http://static.bbci.co.uk/frameworks/barlesque/3.8.0/desktop/3.5/img/blq-search_grey_alpha.png" width="13" height="13" alt="Search"/></span></button> </div> </form> </div>  </div> </div> </div> </div> <div id="blq-container-outer" class="blq-journalism-domestic blq-ltr" >  <div id="blq-container" class="blq-lang-en-GB"> <div id="blq-container-inner" xml:lang="en-GB">   <div id="blq-main" class="blq-clearfix">   
+	
+
+                        		    	
+		<div class="home  has-no-ticker ">
+			<div id="header-wrapper">
+
+			  
+    		  					<!-- hi/knowledge_learning/domestic/banner/food.inc  -->
+
+	<link rel="stylesheet" type="text/css" media="screen" href="http://news.bbcimg.co.uk/view/1_5_8/cream/hi/knowledge_learning/food.css" />
+
+<h2 id="header">
+	<a href="/food/" rel="index"><img id="kl_blocks" src="/img/1_1_8/cream/hi/knowledge_learning/knowledge_learning-blocks.gif" alt="BBC">Food</a>
+	 
+	<a href="http://www.bbc.co.uk/blogs/internet/posts/Knowledge-Learning-Product" id="kl-beta">Knowledge &amp; Learning Beta</a>	
+</h2>
+
+
+
+<!--this sets barlesque vars set above: -->
+
+
+<a id="rss-alternative" href="http://wwwpreview.test.newsonline.tc.nca.bbc.co.uk/food/0/rss.xml">
+    				  RSS<span class="gvl3-icon gvl3-icon-rss"> feed</span>
+    			     </a>
+
+			  
+			  
+			    <div class="bbccom_advert_placeholder">
+			      <script type="text/javascript">$render("advert","advert-sponsor-section");</script>
+			    </div>
+			    <script type="text/javascript">$render("advert-post-script-load");</script>
+			  
+		        
+
+			  	            <div id="blq-local-nav">
+ 	            <ul id="nav" class="nav">
+                	
+        	        		                	
+        	        		<li class="first-child selected"><a href="/food/0/">Home</a></li>
+        		        		                            </ul> 
+        
+	    	</div>
+
+			  
+	        </div>
+	        <!-- START CPS_SITE CLASS: domestic -->
+	        <div id="content-wrapper" class="domestic">
+
+					<div class="advert">
+													
+							<div class="bbccom_advert_placeholder">
+								<script type="text/javascript">$render("advert","advert-leaderboard");</script>
+							</div>
+							<script type="text/javascript">$render("advert-post-script-load");</script>
+							
+											</div>
+                                            <div id="bbccom_custom_branding">
+    <script type="text/javascript">
+        /*<![CDATA[*/
+        if(typeof bbcdotcom.objects('bbcdotcom.branding.init') === 'function') {
+            bbcdotcom.branding.init(BBC.adverts.getZoneData().zone, BBC.adverts.getAdKeyword());
+            bbcdotcom.branding.write();
+        }
+        /*]]>*/
+    </script>
+	<div class="bbccom_advert_placeholder">
+    <script type="text/javascript">
+        /*<![CDATA[*/
+        $render("advert","advert-sponsor-subsection");
+        /*]]>*/
+    </script>
+</div>
+</div>
+<script type="text/javascript">
+        /*<![CDATA[*/
+	$render("advert-post-script-load");
+        /*]]>*/
+</script>
+                    
+	            <!-- START CPS_SITE CLASS: story -->
+	            <div id="main-content" class="story blq-clearfix">
+		
+
+
+	
+
+<div id="print-advert">
+
+</div>
+
+
+
+
+
+<div class="layout-block-a">
+    <div class="story-body">    	
+    		  <span class="story-date">
+    <span class="date">8 May 2013</span>
+<span class="time-text">Last updated at </span><span class="time">03:05</span>  
+</span>
+
+	<div id="page-bookmark-links-head" class="share-help">
+  <h3>Share this page</h3>
+  <ul>  	
+    <li class="delicious">
+      <a title="Post this story to Delicious" href="http://del.icio.us/post?url=http://www.bbc.co.uk/food/0/22312547&amp;title=BBC+Food+-+Can+you+succeed+in+sport+on+a+specialist+diet%3F">Delicious</a>
+    </li>
+    <li class="digg">
+      <a title="Post this story to Digg" href="http://digg.com/submit?url=http://www.bbc.co.uk/food/0/22312547&amp;title=BBC+Food+-+Can+you+succeed+in+sport+on+a+specialist+diet%3F">Digg</a>
+    </li>
+    <li class="facebook">
+      <a title="Post this story to Facebook" href="http://www.facebook.com/sharer.php?u=http://www.bbc.co.uk/food/0/22312547&amp;t=BBC+Food+-+Can+you+succeed+in+sport+on+a+specialist+diet%3F">Facebook</a>
+    </li>
+    <li class="reddit">
+      <a title="Post this story to reddit" href="http://reddit.com/submit?url=http://www.bbc.co.uk/food/0/22312547&amp;title=BBC+Food+-+Can+you+succeed+in+sport+on+a+specialist+diet%3F">reddit</a>
+    </li>
+    <li class="stumbleupon">
+      <a title="Post this story to StumbleUpon" href="http://www.stumbleupon.com/submit?url=http://www.bbc.co.uk/food/0/22312547&amp;title=BBC+Food+-+Can+you+succeed+in+sport+on+a+specialist+diet%3F">StumbleUpon</a>
+    </li>
+    <li class="twitter">
+      <a title="Post this story to Twitter" href="http://twitter.com/home?status=BBC+Food+-+Can+you+succeed+in+sport+on+a+specialist+diet%3F+http://www.bbc.co.uk/food/0/22312547">Twitter</a>
+    </li>
+    <li class="email">
+      <a title="Email this story" href="http://newsvote.bbc.co.uk/mpapps/pagetools/email/www.bbc.co.uk/food/0/22312547">Email</a>
+    </li>
+    <li class="print">
+      <a title="Print this story" href="?print=true">Print</a>
+    </li>
+  </ul>
+<!--  Social media icons by Paul Annet | http://nicepaul.com/icons  -->
+</div>
+<script type="text/javascript"> 
+<!--
+$render("page-bookmark-links","page-bookmark-links-head",{
+    useForgeShareTools:"true",
+    position:"top",
+    site:'Vision', 
+    headline:'BBC Food - Can you succeed in sport on a specialist diet?', 
+    storyId:'22312547', 
+    sectionId:'101869', 
+    url:'http://www.bbc.co.uk/food/0/22312547', 
+    edition:'Domestic'
+}); 
+-->
+</script>
+
+
+
+
+
+	<h1 class="story-header">Can you succeed in sport on a specialist diet?</h1>
+
+     
+         
+ 
+        
+    		
+					            	    		 			<span class="byline">
+														<span class="byline-name">By Anna-Louise Taylor</span>
+				<span class="byline-title">BBC Food</span>
+			</span>
+		        
+        <div class="caption full-width">
+  <img src="http://news.bbcimg.co.uk/media/images/67298000/jpg/_67298089_michaelsvoboda_154956530.jpg" width="624" height="351" alt="Woman running on sand" />
+
+  </div>
+<div class="embedded-hyper">
+	<a class="hidden" href="#story_continues_1">Continue reading the main story</a>	
+
+
+
+
+		     <div class="hyperpuff">
+	       	          
+
+		
+		
+						
+		<!-- Non specific version -->
+		
+	
+						<h2><a href="http://www.bbc.co.uk/food">More from Food</a></h2>
+		
+		
+
+		  	  <ul>
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+<li>
+	<a class="story" rel="published-1399625264885" href="/food/0/27243852">Kitchen science </a>
+
+		</li>
+
+		
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+<li>
+	<a class="story" rel="published-1399392073014" href="/food/0/27164636">Sweet and spicy</a>
+
+		</li>
+
+		
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+<li>
+	<a class="story" rel="published-1398996038395" href="/food/0/27198065">Pop-up spirit</a>
+
+		</li>
+
+		
+	  	  	
+	   
+
+
+
+
+	
+
+
+	
+
+
+
+
+<li>
+	<a class="story" rel="published-1393208043673" href="/food/0/26257794">Food myth</a>
+
+		</li>
+
+		
+	  	  </ul>
+  
+
+
+		
+	
+
+	       	     </div>
+	
+</div>                      <p class="introduction" id="story_continues_1">Are specialist diets any barrier to staying fit? </p>
+        <p>With the summer running and sports season upon us, most people getting fit are also considering their sports nutrition. </p>
+        <p>Enthusiasts may be considering carb-loading for endurance, high protein diets with plenty of meat, perhaps boosting their calories with gels or shakes, or eating &quot;clean&quot;. So can people with a more specialist diet - such as vegetarians and vegans - still compete? </p>
+        <p>The evidence from top athletes suggests they can.</p>
+  <div class="story-feature wide ">
+	<a class="hidden" href="#story_continues_2">Continue reading the main story</a>		<h2>Fuel for fitness:</h2>
+		<!-- pullout-items-->
+	<div class="caption body-narrow-width">
+  <img src="http://news.bbcimg.co.uk/media/images/67358000/jpg/_67358695_chargrilledcourgette_85172_16x9.jpg" width="304" height="171" alt="Chargrilled courgette" />
+
+  </div>
+
+	<!-- pullout-body-->
+	      <p><a href="http://www.bbc.co.uk/food/recipes/chargrilledcourgette_85172" title="Chargrilled courgette with basil, mint, chilli and lemon" >Chargrill courgette with zingy flavours</a></p>
+        <p><a href="http://www.bbc.co.uk/food/recipes/slow_cooker_split_pea_93320" title="Slow cooker split pea dahl" >Cook a split pea dahl full of protein and flavour</a></p>
+        <p><a href="http://www.bbc.co.uk/food/recipes/wild_rice_salad_89972" title="Wild rice salad BBC Food" >Eat clean by trying a wild rice salad</a></p>
+  
+	<!-- pullout-links-->
+	</div>      <p id="story_continues_2">Fiona Oakes, a vegan since she was six, has just won the women&#039;s title in the North Pole Marathon, where runners compete in conditions as low as -30C, where a medical team was on standby for frostbite and marshals kept an eye out for polar bears. </p>
+        <p>She describes the &quot;self-sufficiency endurance test&quot; as &quot;the most extreme thing I&#039;ve done&quot;. </p>
+        <p>&quot;The consequences of running in these temperatures are a very technical and logistically finely balanced thing,&quot; she explains.</p>
+        <p>&quot;There are nutritional problems - when do you eat, what do you eat  - it needs to be a military operation.&quot;</p>
+        <p>Whether a marathon runner, ultra runner, cyclist, or triathlete, different disciplines can mean different dietary requirements, explains sports nutritionist Jo Scott-Dalgleish.</p>
+        <p>&quot;I work with endurance athletes and they need carbs, it&#039;s extremely important,&quot; she says.</p>
+  <a class="hidden" href="#story_continues_3">Continue reading the main story</a><!-- NEWSSPEC-3154 [start] -->
+<link href="/news/special/shared/slideshow/css/slideshow.css?cachebuster=cb000000006" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/news/special/shared/slideshow/js/slideshow.js?cachebuster=cb000000007"></script>
+<div id="slideshow_container" class="storybody-halfwide-include">
+	<div id="ss_slides"><div class="caption body-width">
+  <img src="http://news.bbcimg.co.uk/media/images/67358000/jpg/_67358701_mk8_3740.jpg" width="464" height="261" alt="Fiona Oakes finishing the North Pole marathon" />
+
+    <span style="width:464px;">Fiona Oakes competes to raise awareness for her animal sanctuary</span>
+  </div>
+<div class="caption body-width">
+  <img src="http://news.bbcimg.co.uk/media/images/67359000/jpg/_67359214_mwk_9688.jpg" width="464" height="261" alt="Fiona Oakes finishing the North Pole marathon" />
+
+    <span style="width:464px;">She says the North Pole marathon saw her survive on flapjacks in -30C </span>
+  </div>
+<div class="caption body-width">
+  <img src="http://news.bbcimg.co.uk/media/images/67359000/jpg/_67359215_mwk_9694.jpg" width="464" height="261" alt="Fiona Oakes finishing the North Pole marathon" />
+
+    <span style="width:464px;">Fiona took the women&#039;s title proving a vegan diet can sustain endurance runners </span>
+  </div>
+<a class="hidden" href="#story_continues_3">Continue reading the main story</a>	</div>
+	<div class="ss_controls">
+		<a href='#prev' class="ss_prev ss_button ss_button_disabled"><span>previous slide</span></a>
+		<a href='#next' class="ss_next ss_button ss_button_disabled"><span>next slide</span></a>
+		<span class="ss_locator"></span>
+	</div>
+</div>
+<!-- NEWSSPEC-3154 [end] -->      <p id="story_continues_3">&quot;It&#039;s about getting a good balance of carbs, protein and fats. You need all three to support energy use, and carbs provide energy, and proteins and fats enable your muscles to recover afterwards, and you need a good selection of micronutrients and vitamins,&quot; she explains.</p>
+        <p>In the Arctic, Fiona Oakes had to carefully judge her intake of food and fluids. If she ate or drank too much, she&#039;d have needed to stop for the toilet in freezing conditions, risking frostbite. Consume too little and she&#039;d have run out of energy.</p>
+  <div class="story-feature wide ">
+	<a class="hidden" href="#story_continues_4">Continue reading the main story</a>		<h2>Portion sizes:</h2>
+		<!-- pullout-items-->
+	<div class="caption body-narrow-width">
+  <img src="http://news.bbcimg.co.uk/media/images/67311000/jpg/_67311084_danielloisellegetty_157579358.jpg" width="304" height="171" alt="Dumbbells made of fruit" />
+
+  </div>
+
+	<!-- pullout-body-->
+	      <p>When exercising, one study recommends an energy intake of:</p>
+  <ul>
+    <li> Greater than 50 kcal per kg per day for male athletes who train for more than 90 minutes a day</li>
+    <li> Forty-five to 50 kcal per kg per day for female athletes who train for more than 90 minutes day</li>
+  </ul>      <p>Source: <a href="http://www.ncbi.nlm.nih.gov/pubmed/8303140" >Nutritional practices of elite athletes study</a></p>
+  
+	<!-- pullout-links-->
+	</div>      <p id="story_continues_4">Her solution was to eat basic, vegan, flapjack bars. &quot;I&#039;d eat one every three hours,&quot; she explains. </p>
+        <p>In recent years, <a href="http://www.guardian.co.uk/lifeandstyle/wordofmouth/2012/jul/30/lizzie-armitstead-vegetarian-athletes-olympics-2012" title="Guardian Word of Mouth blog" >vegetarian and vegan athletes have begun to stand out.</a></p>
+        <p>British cyclist Lizzie Armitstead, who is vegetarian, won silver at London 2012 in the road cycling race.</p>
+        <p>But diet remains something that all athletes, elite or non-competitive, have to consider.</p>
+        <p>&#039;&#039;When talented, motivated and highly trained athletes meet for competition the margin between victory and defeat is usually small,&quot; reported Professor Ron Maughan in a seminal 2002 research paper <a href="http://www.ncbi.nlm.nih.gov/pubmed/12002799" title="The athlete&#039;s diet: nutritional goals and dietary strategies." >The athlete&#039;s diet: nutritional goals and dietary strategies</a>, which has been widely cited since.</p>
+        <p>&quot;When everything else is equal, nutrition can make the difference between winning and losing,&quot; he declared.</p>
+        <p>However &quot;diet is still an evolving science when it comes to sports nutrition&quot;, says Adharanand Finn, journalist, runner and author of Running with the Kenyans.</p>
+  <div class="caption body-width">
+  <img src="http://news.bbcimg.co.uk/media/images/67298000/jpg/_67298087_junos_114358099.jpg" width="464" height="261" alt="Apple in a glass and small football and glass of crisps" />
+
+    <span style="width:464px;">A &#039;clean&#039; diet high in natural foods is favoured by sports nutritionists</span>
+  </div>
+      <p>For example, &quot;the traditional view is that carbohydrates are key for endurance athletes and I certainly eat a fairly high carbohydrate diet,&quot; he explains.</p>
+        <p>But there is also a view that vegetarian athletes may not get enough protein without eating meat, or in vegans&#039; case, all meat and dairy products.</p>
+        <p>&quot;I&#039;m actually vegetarian and so omit meat and fish from my diet. This has never caused me any problems and there are lots of examples of successful vegetarian sportspeople,&quot; says Mr Finn.</p>
+  <div class="story-feature wide ">
+	<a class="hidden" href="#story_continues_5">Continue reading the main story</a>		<h2>Food for thought:</h2>
+		<!-- pullout-items-->
+	<div class="caption body-narrow-width">
+  <img src="http://news.bbcimg.co.uk/media/images/67359000/jpg/_67359718_dsc03358.jpg" width="304" height="171" alt="Healthy meal of mackerel, potatoes, steamed carrots and broccoli, tsp of spread" />
+
+  </div>
+
+	<!-- pullout-body-->
+	      <p><a href="http://www.bbc.co.uk/science/0/22028519" title="Healthy eating: Is this the ultimate healthy meal?" >Is this the healthiest meal you could eat?</a></p>
+        <p><a href="http://www.bbc.co.uk/schools/gcsebitesize/pe/performance/0_performance_nutrition_rev1.shtml" title="BBC Bitesize GCSE sports nutrition" >What does the body need for sport?</a></p>
+        <p><a href="http://www.bbc.co.uk/food/0/19294585" >Rise of the &#039;semi-vegetarians&#039;</a></p>
+        <p><a href="http://www.bbc.co.uk/programmes/b019f6jw" title="R4 Food programme" >What did athletes eat in 1948?</a></p>
+  
+	<!-- pullout-links-->
+	</div>      <p id="story_continues_5">He has spent months living with world-class distance runners in training camps in Kenya.  </p>
+        <p>&quot;In all that time they only served meat once. The diet in a Kenyan training camp is very simple. Most days breakfast is just tea and a slice of bread. Lunch is rice, and beans with potatoes, carrots etc. Occasionally they&#039;ll have an avocado with it, too. Then supper is ugali (basically maize flour and water) and stewed kale. That&#039;s it. The same virtually every day.</p>
+        <p>&quot;The athletes like to stick to their traditional diet - it has done them so well up to now, why change it?&quot;</p>
+        <p>Fiona Oakes, who runs Tower Hill Stables Animal Sanctuary in Essex when not competing, says she tends to &quot;eat a lot of nuts, pasta rice, vegetables, fresh foods, and get protein from natural sources&quot;.</p>
+        <p>When she competed in the Marathon Des Sables, which was 154 miles (247km) across the Sahara over six days and in temperatures of up to 50C, she had to carry all her own food. </p>
+  <div class="story-feature wide ">
+	<a class="hidden" href="#story_continues_6">Continue reading the main story</a>		<h2>Who eats what:</h2>
+		<!-- pullout-items-->
+	
+	<!-- pullout-body-->
+	<ul>
+    <li> <strong>Vegetarians</strong> do not eat any meat, poultry, game, fish, shellfish or by-products of slaughter. </li>
+    <li> <strong>Lacto-ovo-vegetarians</strong> eat both dairy products and eggs; this is the most common type of vegetarian diet.</li>
+    <li> <strong>Lacto-vegetarians </strong>eat dairy products but avoid eggs.</li>
+    <li> <strong>Pescatarians</strong> will include fish and/or shellfish in their diet but not meat.</li>
+    <li> <strong>Vegans </strong>do not eat dairy products, eggs, or any other products which are derived from animals.</li>
+    <li> <strong>Omnivores </strong>eat animal products and food from plants.</li>
+    <li> <strong>Meat reducers</strong> eat less meat on ethical and environmental grounds</li>
+    <li> <strong>Semi or demi-vegetarians</strong> will occasionally include meat or poultry. </li>
+  </ul>
+	<!-- pullout-links-->
+	</div>      <p id="story_continues_6">&quot;I took pine nuts - and was the first vegan woman to ever do that race. For 100g of pine nuts I got 700 calories - they were lightweight and nutrient dense,&quot; she says.</p>
+        <p>The requirements for vegan athletes are much the same as for all vegans and for the rest of the population, says Sam Calvert from the <a href="http://www.vegansociety.com/" >Vegan Society</a>. </p>
+        <p>In fact <a href="http://www.drfuhrman.com/library/vegan_athlete.pdf" title="Current Sports Medicine Reports study: Fuelling the vegetarian/vegan athlete" >a Current Sports Medicine Reports study</a> says: &quot;To maximise performance, recovery, endurance and resistance to illness, enhanced intake of beans, greens, seeds, nuts, whole grains, and other colourful plant products are recommended. These same suggestions also are important for the non-vegan athlete.&quot; </p>
+        <p>For vegetarians and vegans, 15% of calories should be from protein, says Jo Scott-Dalgleish, which means thinking of every snack &quot;as a protein snack&quot;. </p>
+        <p>&quot;Protein is not likely to be a problem on a well-planned vegan diet - as many people think it might be,&quot; explains Ms Calvert. </p>
+        <p>&quot;But (every)one must be careful of consuming protein from whole food sources, and to guard against too much protein, which can also lead to health issues,&quot; she says. </p>
+        <p>The Vegan Society only recommends adding a B12 supplement.</p>
+  <div class="story-feature wide ">
+	<a class="hidden" href="#story_continues_7">Continue reading the main story</a>		<h2>Tour de France food:</h2>
+		<!-- pullout-items-->
+	<div class="caption body-narrow-width">
+  <img src="http://news.bbcimg.co.uk/media/images/67359000/jpg/_67359725_161671952.jpg" width="304" height="171" alt="France&#039;s Thomas Voeckler in the Tour De France" />
+
+  </div>
+
+	<!-- pullout-body-->
+	      <p><a href="http://www.bbc.co.uk/blogs/food/2012/06/tour-de-france-a-mountain-of-c.shtml" title="BBC Food blog: Tour de France: A mountain of calories" >Why cyclists need a mountain of 6,000 calories</a></p>
+  
+	<!-- pullout-links-->
+	</div>      <p id="story_continues_7">For some athletes, their specialist diet may be needed for health reasons - such as those who suffer with coeliac disease or who are gluten intolerant leaving out wheat-based products.</p>
+        <p>&quot;They need to avoid certain foods with gluten (some breads, for example) but they still need carbohydrates - they just need to find certain alternative sources,&quot; says Jo Scott-Dalgleish. </p>
+        <p>She recommends they try to get carbohydrates from buckwheat, quinoa, rice or starchy vegetables such as sweet potato. </p>
+        <p>&quot;I don&#039;t work specifically on &#039;eat this many calories&#039;,&quot; she explains, &quot;but it is quite good to have a rough idea how many you are eating. </p>
+        <p>&quot;I focus on quality, and recommend a very clean diet with very healthy foods.&quot;</p>
+  <div class="caption body-width">
+  <img src="http://news.bbcimg.co.uk/media/images/67359000/jpg/_67359723_getty_110883149.jpg" width="464" height="261" alt="Walnuts" />
+
+    <span style="width:464px;">Walnuts can provide a &quot;protein snack&quot;</span>
+  </div>
+      <p>&quot;Any diet can be a good diet and any diet can be a bad diet, you need to eat sensibly and be well-adjusted, to get the nutrients you need,&quot; says Ms Oakes.</p>
+        <p>But most importantly, she says &quot;listen to your body&quot;. </p>
+        <p>She has run with marathon legend Haile Gebrselassie and says &quot;he&#039;s in to making his own sports drinks, he knows what he needs&quot;. </p>
+        <p>&quot;I&#039;m not going to dictate, but for any athlete interested in the possibility of going vegan, I&#039;ve done it, so perhaps it is. People might think you can&#039;t have fitness, strength, and be physical but it is possible.&quot;</p>
+        <p><a href="http://www.ncbi.nlm.nih.gov/pubmed/8303140" title="USDA Nurtitional performance of elite athletes study" >As one study says:</a> &quot;There is no special food that will help elite athletes perform better; the most important aspect of the diet of elite athletes is that it follows the basic guidelines for healthy eating.&#039;&#039;</p>
+        <p><strong>Follow BBC Food on </strong><a href="http://pinterest.com/bbcfood/" title="Pinterest " >Pinterest</a><strong> and on twitter: </strong><a href="https://twitter.com/BBCFood" title="BBC Food Twitter" >@BBCFood</a></p>
+             
+	
+	</div><!-- / story-body -->
+  
+  <div>
+ 	<!--Related hypers and stories -->
+	<div class="story-related">
+	<h2>More on This Story</h2>
+	              
+
+
+
+
+		     <div class="hyperpuff">
+	       	                 
+<div class="hyper-container-title">
+          
+       	      <h3 class="hyper-depth-header"><a href="http://www.bbc.co.uk/food" class="special-report">More from Food
+	      </a>
+	      </h3>
+          
+            
+
+
+			
+	<!-- Non specific version -->
+	
+	
+			<div id="group-title-1" class="hyper-related-assets">
+				
+					
+					
+												<ul>
+																																																															
+																
+																														
+									
+							<li class=" medium-image first-child">
+		
+								
+
+
+
+
+	
+
+
+		
+
+
+
+
+<h5 class=" hyper-story-header">
+	<a class="story" rel="published-1399625264885" href="/food/0/27243852"><img src="http://news.bbcimg.co.uk/media/images/74693000/jpg/_74693296_smoked_artichoke_profiteroles.jpg" alt="smoked artichoke profiteroles by Bubble" />Kitchen science </a>
+
+		</h5>
+
+								
+																  <p>What has &#039;molecular cuisine&#039; taught us?</p>
+																									<hr />
+															</li>
+														
+																</ul>
+						
+										
+		</div>
+		<script type="text/javascript">$render("hyper-related-assets","group-title-1");</script>
+
+	 
+
+      
+
+
+			
+	<!-- Non specific version -->
+	
+	
+			<div id="group-title-2" class="hyper-related-assets">
+				
+					
+					
+												<ul>
+																																																															
+																
+																														
+									
+							<li class=" with-summary first-child">
+		
+								
+
+
+
+
+	
+
+
+	
+
+
+
+
+<h5 class=" hyper-story-header">
+	<a class="story" rel="published-1399392073014" href="/food/0/27164636">Sweet and spicy</a>
+
+		</h5>
+
+								
+																  <p>Chinese food&#039;s new flavours and fusion style</p>
+																							</li>
+														
+																</ul>
+						
+										
+		</div>
+		<script type="text/javascript">$render("hyper-related-assets","group-title-2");</script>
+
+	 
+
+      
+
+
+			
+	<!-- Non specific version -->
+	
+	
+			<div id="group-title-3" class="hyper-related-assets">
+				
+					
+					
+												<ul>
+																																																															
+																
+																														
+									
+							<li class=" with-summary first-child">
+		
+								
+
+
+
+
+	
+
+
+	
+
+
+
+
+<h5 class=" hyper-story-header">
+	<a class="story" rel="published-1398996038395" href="/food/0/27198065">Pop-up spirit</a>
+
+		</h5>
+
+								
+																  <p>Why the West Country&#039;s food is making waves</p>
+																							</li>
+														
+																</ul>
+						
+										
+		</div>
+		<script type="text/javascript">$render("hyper-related-assets","group-title-3");</script>
+
+	 
+
+      
+
+
+			
+	<!-- Non specific version -->
+	
+	
+			<div id="group-title-4" class="hyper-related-assets">
+				
+					
+					
+												<ul>
+																																																															
+																
+																														
+									
+							<li class=" with-summary first-child">
+		
+								
+
+
+
+
+	
+
+
+	
+
+
+
+
+<h5 class=" hyper-story-header">
+	<a class="story" rel="published-1393208043673" href="/food/0/26257794">Food myth</a>
+
+		</h5>
+
+								
+																  <p>Is it really worth worrying about food miles? </p>
+																							</li>
+														
+																</ul>
+						
+										
+		</div>
+		<script type="text/javascript">$render("hyper-related-assets","group-title-4");</script>
+
+	 
+
+  </div>
+
+	       	     </div>
+	
+      
+	
+<style>
+.related-links-list li {
+position: relative;
+}
+.related-links-list .gvl3-icon {
+position: absolute;
+top: 0;
+left: 0;
+}
+</style>
+
+<div class="see-also">
+    <h3>Related Stories</h3>
+    <ul class="related-links-list">
+				
+        			        		<li class=" first">
+                        
+
+
+
+
+		
+
+
+	
+
+
+
+
+<div class="has-icon-boxedwatch ">
+	<a class="story" rel="published-1365933557160" href="/news/world-22142290">Racing a marathon waist-deep in snow<span class="gvl3-icon gvl3-icon-boxedwatch"> Watch</span></a>
+
+		</div>
+
+                        
+                                                <span class="timestamp">14 APRIL 2013</span>,                                                
+                                                <span class="section">WORLD</span>
+                                        </li>
+							        			        		<li class="">
+                        
+
+
+
+
+	
+
+
+	
+
+
+
+
+<div>
+	<a class="story" rel="published-1342661037250" href="/news/health-18863293">Lack of proof sport products work</a>
+
+		</div>
+
+                        
+                                                <span class="timestamp">19 JULY 2012</span>,                                                
+                                                <span class="section">HEALTH</span>
+                                        </li>
+							        			        		<li class="">
+                        
+
+
+
+
+	
+
+
+	
+
+
+
+
+<div>
+	<a class="story" rel="published-1344132738581" href="/news/health-19112549">The power of intermittent fasting</a>
+
+		</div>
+
+                        
+                                                <span class="timestamp">05 AUGUST 2012</span>,                                                
+                                                <span class="section">HEALTH</span>
+                                        </li>
+							        			        		<li class="">
+                        
+
+
+
+
+	
+
+
+	
+
+
+
+
+<div>
+	<a class="story" rel="published-1218801643000" href="/1/hi/world/asia-pacific/7562840.stm">Food for fuel: Olympian Phelps&#039; unusual diet</a>
+
+		</div>
+
+                        
+                                                <span class="timestamp">15 AUGUST 2008</span>,                                                
+                                                <span class="section">ASIA-PACIFIC</span>
+                                        </li>
+							            </ul>
+</div>
+<script type="text/javascript">$render("page-see-also","ID");</script> 
+
+	<script type="text/javascript">$render("page-newstracker","ID");</script> 
+
+	        
+<div class="related-internet-links">
+	<h3>Related Internet links</h3>
+	<ul class="related-links">
+											
+							    	<li class="column-1  first-child">
+	            <a href="http://www.nhs.uk/Livewell/Goodfood/Pages/Sport.aspx">NHS sports nutrition advice</a>
+	        </li>
+								
+							    	<li class="column-1 ">
+	            <a href="http://www.nutritionsociety.org/events/sports-dietitian-uk-new-advances-sports-nutrition-practice">The Nutrition Society</a>
+	        </li>
+								
+							    	<li class="column-1 ">
+	            <a href="http://www.npmarathon.com/">UVU North Pole Marathon</a>
+	        </li>
+								
+							    	<li class="column-1 ">
+	            <a href="http://www.towerhillstables.com/Fiona.html">Tower Hill Stables Animal Sanctuary</a>
+	        </li>
+								
+							    	<li class="column-1 ">
+	            <a href="http://www.vegansociety.com/">Vegan Society </a>
+	        </li>
+								
+										    	<li class="column-2 ">
+	            <a href="http://www.endurancesportsnutritionist.co.uk/">Endurance Sports Nutrition</a>
+	        </li>
+								
+										    	<li class="column-2 ">
+	            <a href="http://www.ornishspectrum.com/wp-content/uploads/A-Very-Low-Fat-Vegan-Diet-Increases.pdf">A very low-fat vegan diet study</a>
+	        </li>
+								
+										    	<li class="column-2 ">
+	            <a href="http://cinder.medicosenmerida.com.mx/Copia%20de%20Micronutrimentos%20para%20atletas.pdf">Micronutrient Requirements for Athletes Study</a>
+	        </li>
+								
+										    	<li class="column-2 ">
+	            <a href="http://www.sciencedirect.com/science/article/pii/S2211266913000054">Use and rationale for taking nutritional supplements study</a>
+	        </li>
+		    </ul>
+</div>
+
+  		
+<div class="related-bbc-links">
+	<h3>Around the BBC</h3>
+	<ul class="related-links">
+											
+							    	<li class="column-1  first-child">
+	            <a href="http://www.bbc.co.uk/programmes/b019f6jw">BBC R4 Food Programme: London 2012 </a>
+	        </li>
+								
+										    	<li class="column-2 ">
+	            <a href="http://www.bbc.co.uk/programmes/b01nk24n">BBC R4 Food Programme:  Football and Food</a>
+	        </li>
+		    </ul>
+</div>
+
+        <p class="disclaimer">The BBC is not responsible for the content of external Internet sites</p>
+	</div>
+<script type="text/javascript">$render("page-related-items","ID");</script>
+
+  </div>
+
+      
+  <div class="share-body-bottom">
+	<div id="page-bookmark-links-foot" class="share-help">
+  <h3>Share this page</h3>
+  <ul>  	
+    <li class="delicious">
+      <a title="Post this story to Delicious" href="http://del.icio.us/post?url=http://www.bbc.co.uk/food/0/22312547&amp;title=BBC+Food+-+Can+you+succeed+in+sport+on+a+specialist+diet%3F">Delicious</a>
+    </li>
+    <li class="digg">
+      <a title="Post this story to Digg" href="http://digg.com/submit?url=http://www.bbc.co.uk/food/0/22312547&amp;title=BBC+Food+-+Can+you+succeed+in+sport+on+a+specialist+diet%3F">Digg</a>
+    </li>
+    <li class="facebook">
+      <a title="Post this story to Facebook" href="http://www.facebook.com/sharer.php?u=http://www.bbc.co.uk/food/0/22312547&amp;t=BBC+Food+-+Can+you+succeed+in+sport+on+a+specialist+diet%3F">Facebook</a>
+    </li>
+    <li class="reddit">
+      <a title="Post this story to reddit" href="http://reddit.com/submit?url=http://www.bbc.co.uk/food/0/22312547&amp;title=BBC+Food+-+Can+you+succeed+in+sport+on+a+specialist+diet%3F">reddit</a>
+    </li>
+    <li class="stumbleupon">
+      <a title="Post this story to StumbleUpon" href="http://www.stumbleupon.com/submit?url=http://www.bbc.co.uk/food/0/22312547&amp;title=BBC+Food+-+Can+you+succeed+in+sport+on+a+specialist+diet%3F">StumbleUpon</a>
+    </li>
+    <li class="twitter">
+      <a title="Post this story to Twitter" href="http://twitter.com/home?status=BBC+Food+-+Can+you+succeed+in+sport+on+a+specialist+diet%3F+http://www.bbc.co.uk/food/0/22312547">Twitter</a>
+    </li>
+    <li class="email">
+      <a title="Email this story" href="http://newsvote.bbc.co.uk/mpapps/pagetools/email/www.bbc.co.uk/food/0/22312547">Email</a>
+    </li>
+    <li class="print">
+      <a title="Print this story" href="?print=true">Print</a>
+    </li>
+  </ul>
+<!--  Social media icons by Paul Annet | http://nicepaul.com/icons  -->
+
+<div class="bbccom_advert_placeholder">
+	<script type="text/javascript">$render("advert","advert-sponsor-module","page-bookmark-links");</script>
+</div>
+<script type="text/javascript">$render("advert-post-script-load");</script>
+  
+</div>
+<script type="text/javascript"> 
+<!--
+$render("page-bookmark-links","page-bookmark-links-foot",{
+    useForgeShareTools:"true",
+    position:"bottom",
+    site:'Vision', 
+    headline:'BBC Food - Can you succeed in sport on a specialist diet?', 
+    storyId:'22312547', 
+    sectionId:'101869', 
+    url:'http://www.bbc.co.uk/food/0/22312547', 
+    edition:'Domestic'
+}); 
+-->
+</script>
+
+ </div>
+ 
+   
+      	
+		<div class="bbccom_advert_placeholder">
+	      	<script type="text/javascript">$render("advert","advert-google-adsense");</script>
+		</div>
+		<script type="text/javascript">$render("advert-post-script-load");</script>
+    	
+	
+ 
+</div><!-- / layout-block-a -->
+
+<div class="layout-block-b">	
+			
+
+
+
+
+		     <div class="hyperpuff">
+	       	         <div id="backlink-include" class="include-only special-event-promotion-best">
+    	<!-- food backlink -->
+
+<div id="kl_backlink">
+	<a href="/food/" title="Food home page">Food</a>
+</div>
+</div>
+<script type="text/javascript">$render("backlink-include","backlink-include");</script> 
+	       	         
+<div id="genre-promotion" class="container-features-and-analysis">
+ 	
+ <ul>
+  	
+
+
+		
+	
+						
+			<!-- Non specific version -->
+			
+			
+							
+		<li class="medium-image">
+
+			
+
+
+
+
+	
+
+
+		
+
+
+
+
+<h3 class=" feature-header">
+	<a class="story" rel="published-1400749084851" href="http://www.bbc.co.uk/food/recipes/seared_salmon_and_30765"><img src="http://news.bbcimg.co.uk/media/images/75023000/jpg/_75023141_seared_salmon_and_30765_16x9.jpg" alt="Seared salmon salad" />Seared salmon</a>
+
+		</h3>
+
+			
+							<p>Indulge in a healthy salad with spicy smoked chorizo  	
+				  <span id="dna-comment-count___CPS__27518291" class="gvl3-icon gvl3-icon-comment comment-count"></span></p>
+			
+							<hr />
+					</li>
+			
+							
+		<li class="medium-image">
+
+			
+
+
+
+
+	
+
+
+		
+
+
+
+
+<h3 class=" feature-header">
+	<a class="story" rel="published-1400145237263" href="http://bbc.in/KFhOv9"><img src="http://news.bbcimg.co.uk/media/images/74869000/jpg/_74869277_vegetable_garden_risotto_60989_16x9.jpg" alt="Vegetable risotto" />Vegetable risotto</a>
+
+		</h3>
+
+			
+							<p>Prepare a summertime dish with fresh mint and runner beans 	
+				  <span id="dna-comment-count___CPS__27424226" class="gvl3-icon gvl3-icon-comment comment-count"></span></p>
+			
+							<hr />
+					</li>
+			
+							
+		<li class="medium-image">
+
+			
+
+
+
+
+	
+
+
+		
+
+
+
+
+<h3 class=" feature-header">
+	<a class="story" rel="published-1384966584037" href="https://www.facebook.com/bbcfood"><img src="http://news.bbcimg.co.uk/media/images/71277000/jpg/_71277368_arcticroll_facebook.jpg" alt="Cake representing BBC Food on Facebook " />Like us</a>
+
+		</h3>
+
+			
+							<p>Join us on Facebook for top cooking tips, tricks &amp; treats 	
+				  <span id="dna-comment-count___CPS__25025220" class="gvl3-icon gvl3-icon-comment comment-count"></span></p>
+			
+							<hr />
+					</li>
+	
+	 
+	
+	
+
+
+  	
+
+
+		
+	
+						
+			<!-- Non specific version -->
+			
+			
+							
+		<li class="no-image">
+
+			
+
+
+
+
+	
+
+
+	
+
+
+
+
+<h3 class=" feature-header">
+	<a class="story" rel="published-1400061349230" href="http://www.bbc.co.uk/food/recipes/black_pepper-crusted_61117">Peppered mackerel</a>
+
+		</h3>
+
+			
+							<p>Enjoy this fish recipe with fresh apple and celery 	
+				  <span id="dna-comment-count___CPS__27407845" class="gvl3-icon gvl3-icon-comment comment-count"></span></p>
+			
+					</li>
+	
+	 
+	
+	
+
+
+   </ul>
+</div>
+<script type="text/javascript">$render("container-features-and-analysis","genre-promotion");</script> 
+
+	       	         <div id="iplayer-promotion" class="include-only programmes-promotion">
+    	
+
+
+
+
+		     <div class="hyperpuff">
+	       	             		  		    	
+    		    		    		  		  
+
+<div id="container-programme-promotion" class="container-programme-promotion">
+			<h2 class="programmes-header">Programmes</h2>
+		
+	
+		<a class="iplayer-branding" href="http://www.bbc.co.uk/iplayer/">BBC iPlayer</a>
+	
+
+						
+<ul class="programme-breakout">
+	
+	
+			
+	<li class="first-child large-image">		
+		
+
+
+
+
+		
+
+
+		
+
+
+
+
+<h3 class=" programme-header">
+	<a class="story" rel="published-1365069239368" href="http://www.bbc.co.uk/programmes/b006t1k5"><img src="http://news.bbcimg.co.uk/media/images/73875000/jpg/_73875022_masterchef.jpg" alt="John Torrode and Gregg Wallace" />MasterChef<span class="gvl3-icon-wrapper"><span class="gvl3-icon gvl3-icon-invert-watch"> Watch</span></span></a>
+
+		</h3>
+
+		<p>Amateur cooks compete to win the MasterChef title</p>
+		
+		
+		<div class="bbccom_advert_placeholder">
+	      	<script type="text/javascript">$render("advert","advert-sponsor-module","programme-breakout","masterchef");</script>
+		</div>
+		<script type="text/javascript">$render("advert-post-script-load");</script>
+	     
+	</li>
+</ul>		
+					<ul class="programmes-standard">
+	
+				
+				
+	<li class="medium-image first-item">
+		
+
+
+
+
+		
+
+
+		
+
+
+
+
+<h3 class=" programme-header">
+	<a class="story" rel="published-1398246768991" href="http://www.bbc.co.uk/programmes/b0424667"><img src="http://news.bbcimg.co.uk/media/images/74391000/jpg/_74391577_tom_kerridge.jpg" alt="Spring Kitchen with Tom Kerridge  " />Spring Kitchen with Tom Kerridge<span class="gvl3-icon-wrapper"><span class="gvl3-icon gvl3-icon-invert-watch"> Watch</span></span></a>
+
+		</h3>
+
+		<p>Celebrating the best of seasonal food</p>
+		<hr />
+	</li>														
+	
+				
+			
+	<li class="medium-image ">
+		
+
+
+
+
+		
+
+
+		
+
+
+
+
+<h3 class=" programme-header">
+	<a class="story" rel="published-1400061413076" href="http://www.bbc.co.uk/programmes/p01wjhcx"><img src="http://news.bbcimg.co.uk/media/images/74843000/jpg/_74843541_theallotment.jpg" alt="Fern Britton" />Big Allotment Challenge<span class="gvl3-icon-wrapper"><span class="gvl3-icon gvl3-icon-invert-watch"> Watch</span></span></a>
+
+		</h3>
+
+		<p>Passionate gardeners&#039; test out their growing and preserving skills</p>
+		<hr />
+	</li>														
+	
+				
+			
+	<li class="medium-image ">
+		
+
+
+
+
+		
+
+
+		
+
+
+
+
+<h3 class=" programme-header">
+	<a class="story" rel="published-1345217587704" href="http://www.bbc.co.uk/programmes/b006qnx3"><img src="http://news.bbcimg.co.uk/media/images/70322000/jpg/_70322874_sheilainkitchen.jpg" alt="Sheila Dillon" />The Food Programme<span class="gvl3-icon-wrapper"><span class="gvl3-icon gvl3-icon-invert-listen"> Listen</span></span></a>
+
+		</h3>
+
+		<p>Investigating every aspect of the food we eat</p>
+		<hr />
+	</li>														
+</ul>
+		
+	</div>
+<script type="text/javascript">$render("container-programmes-promotion","container-programme-promotion");</script>
+	
+	       	     </div>
+	
+</div>
+<script type="text/javascript">$render("iplayer-promotion","iplayer-promotion");</script> 
+	       	     </div>
+	
+		
+	
+		<!-- no promotional module -->
+		
+	 	
+	<div class="bbccom_advert_placeholder">
+ 		<script type="text/javascript">$render("advert","advert-partner-button");</script>
+	</div>
+	<script type="text/javascript">$render("advert-post-script-load");</script>
+	
+		
+		<!-- no programme breakout hyper -->
+		
+	 	
+	<div class="bbccom_advert_placeholder">
+		<script type="text/javascript">$render("advert","advert-mpu-bottom");</script>
+	</div>
+	<script type="text/javascript">$render("advert-post-script-load");</script>
+	
+		
+</div>
+
+	<!-- END #MAIN-CONTENT & CPS_ASSET_TYPE CLASS: story -->
+	</div>
+<!-- END CPS_AUDIENCE CLASS: domestic -->
+	
+</div> 
+<!-- related services -->
+</div><!-- close home -->
+
+
+
+	
+	
+
+   </div>   <!--[if IE 6]> <div id="blq-ie6-upgrade"> <p> <span>You're using the Internet Explorer 6 browser to view the BBC website. Our site will work much better if you change to a more modern browser. It's free, quick and easy.</span> <a href="http://www.browserchoice.eu/">Find out more <span>about upgrading your browser</span> here&hellip;</a> </p> </div> <![endif]-->  <div id="blq-foot" xml:lang="en-GB" class="blq-rst blq-clearfix blq-foot-transparent blq-foot-text-dark"> <div id="blq-footlinks"> <h2 class="blq-hide">BBC links</h2>       <ul>                    <li class="blq-footlinks-row"> <ul class="blq-footlinks-row-list"> <li><a href="http://m.bbc.co.uk/" id="blq-footer-mobile">Mobile site</a></li><li><a href="http://www.bbc.co.uk/terms/">Terms of Use</a></li><li><a href="http://www.bbc.co.uk/aboutthebbc/">About the BBC</a></li> </ul> </li>                <li class="blq-footlinks-row"> <ul class="blq-footlinks-row-list"> <li><a href="http://www.bbc.co.uk/privacy/">Privacy</a></li><li><a href="http://www.bbc.co.uk/accessibility/">Accessibility Help</a></li> </ul> </li>                <li class="blq-footlinks-row"> <ul class="blq-footlinks-row-list"> <li><a href="http://www.bbc.co.uk/privacy/cookies/about">Cookies</a></li><li><a href="http://www.bbc.co.uk/food/feedback">Contact the BBC</a></li> </ul> </li>           <li class="blq-footlinks-row"> <ul class="blq-footlinks-row-list"> <li><a href="http://www.bbc.co.uk/guidance/">Parental Guidance</a></li> </ul> </li>             </ul> <script type="text/javascript">/*<![CDATA[*/ (function() { var mLink = document.getElementById('blq-footer-mobile'), stick = function() { var d = new Date (); d.setYear(d.getFullYear() + 1); d = d.toUTCString(); window.bbccookies.set('ckps_d=m;domain=.bbc.co.uk;path=/;expires=' + d ); window.bbccookies.set('ckps_d=m;domain=.bbc.com;path=/;expires=' + d ); }; if (mLink) {  if (mLink.addEventListener) { mLink.addEventListener('click', stick, false); } else if (mLink.attachEvent) { mLink.attachEvent('onclick', stick); } } })(); /*]]>*/</script>  </div>  <div id="blq-foot-blocks" class="blq-footer-image-dark"><img src="http://static.bbci.co.uk/frameworks/barlesque/3.8.0/desktop/3.5/img/blocks/dark.png" width="84" height="24" alt="BBC" /></div>  <p id="blq-disclaim"><span id="blq-copy">Copyright &copy; 2016 BBC.</span> <a href="http://www.bbc.co.uk/help/web/links/">The BBC is not responsible for the content of external sites. Read more.</a></p> <div id="blq-obit"><p><strong>This page is best viewed in an up-to-date web browser with style sheets (CSS) enabled. While you will be able to view the content of this page in your current browser, you will not be able to get the full visual experience. Please consider upgrading your browser software or enabling style sheets (CSS) if you are able to do so.</strong></p></div> </div> </div>  </div> </div>  <script type="text/javascript"> if (typeof require !== 'undefined') { require(['istats-1'], function(istats){ istats.track('external', { region: document.getElementById('blq-main') }); istats.track('download', { region: document.getElementById('blq-main') }); }); } </script>  <script type="text/html" id="blq-panel-template-promo"><![CDATA[ <div id="blq-panel-promo" class="blq-masthead-container"></div> ]]></script> <script type="text/html" id="blq-panel-template-more"><![CDATA[ <div id="blq-panel-more" class="blq-masthead-container  blq-clearfix" xml:lang="en-GB" dir="ltr"> <div class="blq-panel-container panel-paneltype-more"> <div class="panel-header"> <h2> <a href="#blq-footlinks">  More&hellip;  </a> </h2> </div> <div class="panel-component panel-links">       <ul>   <li> <a href="http://www.bbc.co.uk/cbbc"  >CBBC</a> </li>    <li> <a href="http://www.bbc.co.uk/cbeebies"  >CBeebies</a> </li>    <li> <a href="http://www.bbc.co.uk/food/"  >Food</a> </li>   </ul>  <ul>   <li> <a href="http://www.bbc.co.uk/iwonder"  >iWonder</a> </li>    <li> <a href="http://www.bbc.co.uk/education"  >Bitesize</a> </li>    <li> <a href="http://www.bbc.co.uk/travel/"  >Travel</a> </li>   </ul>  <ul>   <li> <a href="http://www.bbc.co.uk/music/"  >Music</a> </li>    <li> <a href="http://www.bbc.com/earth"  >Earth</a> </li>    <li> <a href="http://www.bbc.co.uk/arts"  >Arts</a> </li>   </ul>  <ul>   <li> <a href="http://www.bbc.co.uk/makeitdigital" id="makeitdigital" >Make It Digital</a> </li>    <li> <a href="http://www.bbc.co.uk/taster" id="taster" >Taster</a> </li>    <li> <a href="http://www.bbc.co.uk/local/"  >Local</a> </li>   </ul>   </div> </div> ]]></script>            <script type="text/javascript">require(["istats-1","orb/cookies"],function(i,o){o.isAllowed("s1")&&i.invoke()});</script>
+	
+
+<!-- shared/foot -->
+<script type="text/javascript">
+	bbc.fmtj.common.removeNoScript({});
+	bbc.fmtj.common.tabs.createTabs({});
+</script>
+<!-- hi/knowledge_learning/foot.inc -->
+
+<!-- shared/foot_story -->
+<!-- #CREAM hi knowledge_learning domestic foot.inc -->
+ 
+
+</body>
+</html>
+
+

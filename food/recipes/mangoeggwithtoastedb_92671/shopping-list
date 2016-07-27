@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html class="no-touch" lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+    <title>BBC Food - Recipes - Mango &#39;egg&#39; with toasted brioche</title>
+
+    <script src="http://food.files.bbci.co.uk/kandl-food/1130/javascript/vendors/modernizr.js"></script>
+
+    <!--[if (lt IE 9) & (!IEMobile)]>
+    <link rel='stylesheet' href='http://food.files.bbci.co.uk/kandl-food/1130/css/ie8.css'/>
+    <![endif]-->
+
+    <!--[if gt IE 8]><!-->
+    <link rel='stylesheet' href='http://food.files.bbci.co.uk/kandl-food/1130/css/style.css'/>
+    <!--<![endif]-->
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    
+<meta name="robots" content="NOINDEX, FOLLOW" />
+
+</head>
+
+<body class="noblq">
+
+<div class="food-body">
+    <div class="food-wrapper">
+        <div class="food-header">
+            <a class="food-blocks" href="/">BBC</a>
+            <div class="page-title">
+                <div class="page-title__logo-wrapper">
+                    <a class="page-title__logo" href="/food/" title="Food homepage">Food</a>
+                    <span class="page-title__text">Shopping List</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="food-grid">
+        <div class="food-content-wrapper">
+            
+<div class="shopping-list-body">
+    <div class="shopping-list-wrap">
+        <div class="shopping-list">
+            
+    <h1 class="content-title__text" itemprop="name">Mango &#39;egg&#39; with toasted brioche</h1>
+
+
+
+            
+                
+                <div class="shopping-list__group shopping-list__group--fruit-and-vegetables">
+                    <h2 class="shopping-list__location-heading">Fruit and vegetables</h2>
+
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="fruit-and-vegetables-ingredient-1" />
+                        <label class="shopping-list__label" for="fruit-and-vegetables-ingredient-1">150g/5oz mango purée (or 1 whole mango, peeled, stone removed, flesh chopped, blended to a smooth purée in a food processor with 30ml/1¼fl oz water)</label>
+                    </p>
+                
+                </div>
+            
+                
+                <div class="shopping-list__group shopping-list__group--cooking-ingredients">
+                    <h2 class="shopping-list__location-heading">Cooking ingredients</h2>
+
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-1" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-1">100g/3½oz soft brown sugar</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-2" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-2">1 cinnamon stick</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-3" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-3">4 cloves</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-4" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-4">20g/¾oz icing sugar</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-5" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-5">1 star anise</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="cooking-ingredients-ingredient-6" />
+                        <label class="shopping-list__label" for="cooking-ingredients-ingredient-6">1 tbsp vegetable oil</label>
+                    </p>
+                
+                </div>
+            
+                
+                <div class="shopping-list__group shopping-list__group--dairy-eggs-and-chilled">
+                    <h2 class="shopping-list__location-heading">Dairy, eggs and chilled</h2>
+
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="dairy-eggs-and-chilled-ingredient-1" />
+                        <label class="shopping-list__label" for="dairy-eggs-and-chilled-ingredient-1">30g/1¼oz unsalted butter</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="dairy-eggs-and-chilled-ingredient-2" />
+                        <label class="shopping-list__label" for="dairy-eggs-and-chilled-ingredient-2">3 medium free-range eggs, beaten </label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="dairy-eggs-and-chilled-ingredient-3" />
+                        <label class="shopping-list__label" for="dairy-eggs-and-chilled-ingredient-3">100ml/3½fl oz whipping cream</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="dairy-eggs-and-chilled-ingredient-4" />
+                        <label class="shopping-list__label" for="dairy-eggs-and-chilled-ingredient-4">50ml/2fl oz Greek-style yoghurt</label>
+                    </p>
+                
+                </div>
+            
+                
+                <div class="shopping-list__group shopping-list__group--other">
+                    <h2 class="shopping-list__location-heading">Other</h2>
+
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="other-ingredient-1" />
+                        <label class="shopping-list__label" for="other-ingredient-1">1 litre/1¾ pints bottled mineral water</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="other-ingredient-2" />
+                        <label class="shopping-list__label" for="other-ingredient-2">1g gluco powder, or similar edible calcium ions (available from specialist online retailers)</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="other-ingredient-3" />
+                        <label class="shopping-list__label" for="other-ingredient-3">5g alginate or algin powder (available from specialist online retailers)</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="other-ingredient-4" />
+                        <label class="shopping-list__label" for="other-ingredient-4">4 slices brioche, slices cut into discs using a 7cm/3in cookie cutter</label>
+                    </p>
+                
+                    
+                    <p class="shopping-list__ingredient">
+                        <input type="checkbox" class="shopping-list__checkbox" id="other-ingredient-5" />
+                        <label class="shopping-list__label" for="other-ingredient-5">crackle crystals, to serve (optional) (available from specialist online retailers)</label>
+                    </p>
+                
+                </div>
+            
+
+            <a class="shopping-list__back-link" href="/food/recipes/mangoeggwithtoastedb_92671">Back to recipe</a>
+        </div>
+    </div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    var cookie = "; " + document.cookie;
+    var cSplit = cookie.split("; ckns_policy=");
+    var ckns_policy = cSplit.pop().split(";").shift();
+
+    if (ckns_policy != "101" && ckns_policy != "000" && ckns_policy != "010") {
+        var _sf_async_config={};
+
+        /** CONFIGURATION START **/
+        _sf_async_config.uid = 50924;
+        _sf_async_config.domain = 'bbc.co.uk';
+        _sf_async_config.useCanonical = true;
+        _sf_async_config.sections = 'kandlfood';
+        _sf_async_config.authors = '';
+
+        /** CONFIGURATION END **/
+        (function(){
+            function loadChartbeat() {
+                window._sf_endpt=(new Date()).getTime();
+                var e = document.createElement('script');
+                e.setAttribute('language', 'javascript');
+                e.setAttribute('type', 'text/javascript');
+                e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+                document.body.appendChild(e);
+            }
+            var oldonload = window.onload;
+            window.onload = (typeof window.onload != 'function') ?
+                    loadChartbeat : function() { oldonload(); loadChartbeat(); };
+        })();
+    }
+</script>
+
+</body>
+</html>

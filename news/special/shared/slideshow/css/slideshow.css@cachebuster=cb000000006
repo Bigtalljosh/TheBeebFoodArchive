@@ -1,0 +1,77 @@
+.blq-js div#slideshow_container {
+	width: 464px;
+	margin-bottom: 15px;
+}
+
+.blq-js div#slideshow_container div.caption {
+	display: none;
+	margin-bottom: 0px;
+}
+
+.blq-js div#slideshow_container div.caption:first-child {
+	display: block;
+}
+
+
+.blq-js div#slideshow_container div.caption span {
+	margin-bottom: 5px;
+	padding: 0px 3px 2px 3px;
+}
+
+div#slideshow_container div.ss_controls {
+	display: none;
+}
+
+.blq-js div#slideshow_container div.ss_controls {
+	height: 40px;
+	margin-top: -3px;
+	background: #efefef;
+}
+
+div#slideshow_container div.ss_controls a.ss_button  {
+	float: left;
+	width: 40px;
+	height: 40px;
+	display: inline-block;
+	background-image: url('/news/special/shared/slideshow/img/left40x40.png');
+	background-position: -56px center;
+	text-decoration: none;
+}
+
+div#slideshow_container div.ss_controls a.ss_button span {
+	display: none;
+}
+
+div#slideshow_container div.ss_controls a.ss_next {
+	float: right;
+	background-image: url('/news/special/shared/slideshow/img/right40x40.png');
+}
+
+div#slideshow_container div.ss_controls a.ss_button:hover {
+	background-position: -112px center;
+}
+
+div#slideshow_container div.ss_controls a.ss_button:active,
+div#slideshow_container div.ss_controls a.ss_button_active {
+	background-position: -168px center !important;
+}
+
+div#slideshow_container div.ss_controls a.ss_button_disabled,
+div#slideshow_container div.ss_controls a.ss_button_disabled:active {
+	background-position: 0px center !important;
+	cursor: default;
+}
+
+div#slideshow_container div.ss_controls span.ss_locator {
+	margin: 0 auto;
+	width: 45px;
+	display: block;
+	text-align: center;
+	line-height: 40px;
+	font-weight: bold;
+}
+
+/* 304 fix */
+div#slideshow_container.story-feature div#ss_slides div.caption img {
+	margin: 0px;
+}

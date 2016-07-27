@@ -1,0 +1,80 @@
+require(['jquery-1', 'istats-1'], function($, istats) {
+	bbc.fmtj.utils.createObject('news.special.specialsSlideshow');
+	news.special.specialsSlideshow = $(function() {
+		var self = this;
+		var $slides = $("div#slideshow_container div.caption");
+
+		this.setup = function() {
+			self.slide_count = $slides.length;
+			self.slide_current = 1;
+			self.setLocator();
+
+			//set height of all slides to accommodate the largest slide
+			var widest = 0;
+			$slides.each(function() {
+				widest = Math.max(widest, $(this).children('img:first').outerWidth());
+			});
+			$("div#slideshow_container").css("width", widest);
+			
+			var heighest = 0;
+			$slides.each(function() {
+				heighest = Math.max(heighest, $(this).outerHeight());
+			});
+			$slides.css("height", heighest);
+
+			//Show control bar
+			$('div#slideshow_container div.ss_controls').show();
+			
+			//set width to 624 or 464
+			/*if ($('div#ss_slides div.caption img').first().width() == "624") {
+				$("div#slideshow_container").css("width", "624");
+			}*/
+
+			//re-enable next button, if necessary
+			if (self.slide_count > 1)
+				$('.ss_next').removeClass("ss_button_disabled");
+
+			//fallback for IE6 lack of :first-child css selector
+			if ($('.ie').length)
+				$($slides[0]).show();
+
+			$("div#slideshow_container a.ss_button").bind("click", function(e) {
+				e.preventDefault();
+				$(this).blur();
+
+				if ($(this).hasClass("ss_next")) {
+					if (self.slide_current == self.slide_count) return false;
+					self.slide_current++;
+					self.log("next");
+				} else {
+					if (self.slide_current == 1) return false;
+					self.slide_current--;
+					self.log("prev");
+				}
+
+				$(".ss_button").removeClass("ss_button_disabled");
+				if (self.slide_current == 1)
+					$("a.ss_prev").addClass("ss_button_disabled");
+				else if (self.slide_current == self.slide_count)
+					$("a.ss_next").addClass("ss_button_disabled");
+
+				$slides.hide();
+				$($slides[self.slide_current-1]).show();
+
+				self.setLocator();
+			});
+		}
+
+		//update the locator with the {current slide}/{total slides}
+		this.setLocator = function() {
+			$("div#slideshow_container span.ss_locator").text(self.slide_current + "/" + self.slide_count);
+		}
+
+		//iStats
+		this.log = function(dir) {
+			istats.log("newsSpecials_1", "newsSpecial", {"view":self.slide_current});
+		}
+
+		this.setup();
+	});
+});
